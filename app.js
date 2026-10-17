@@ -48,7 +48,7 @@
 
   const T = {
     zh: {
-      brand: "生命同行营", sub: "每日读经 · 祷告", review: s => "回顾" + s.zh.replace("第", ""), past: "回顾往期",
+      brand: "生命同行营", sub: "每日读经 · 祷告", review: s => "回顾" + s.zh.replace("第", ""), past: "回顾往期", home: "回到首页",
       today: "回到今天", prevM: "上个月", nextM: "下个月", legend: "已有灵修内容", legendPub: t => `（当日 ${t} 发布）`,
       week: ["日", "一", "二", "三", "四", "五", "六"],
       wd: ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
@@ -61,7 +61,7 @@
       foot: "经文：和合本（公有领域版本；新译本仅提供外部链接）　·　解读参考：《圣经综合解读》cmcbiblereading.com"
     },
     en: {
-      brand: "Life Together", sub: '<span class="sub-daily">Daily </span>Scripture\u202F·\u202FPrayer', review: s => s.en, past: "Past Sessions",
+      brand: "Life Together", sub: '<span class="sub-daily">Daily </span>Scripture\u202F·\u202FPrayer', review: s => s.en, past: "Past Sessions", home: "Back to home",
       today: "Today", prevM: "Previous month", nextM: "Next month", legend: "Devotion available", legendPub: t => ` (daily post at ${t})`,
       week: ["S", "M", "T", "W", "T", "F", "S"],
       wd: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
@@ -106,6 +106,7 @@
     document.body.classList.toggle("is-en", lang === "en");
     $("brand-name").textContent = t.brand;
     $("brand-sub").innerHTML = t.sub;
+    $("brand-home").title = t.home;
     // 「回到今天」：日历图标（圆点表示今天）+ 文字
     $("btn-today").innerHTML = `<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><circle cx="12" cy="15" r="1.6" fill="currentColor" stroke="none"/></svg><span>${t.today}</span>`;
     // 「回顾」按钮：只有一期已经结束时，直接显示「回顾一期」；
@@ -217,6 +218,45 @@
 
   function renderAll() { renderChrome(); renderCalendar(); renderReading(); }
 
+  const reduceMotion = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+  // ───── 置顶页头 & 自动滚动 ─────
+  // 页头一直固定在顶部；往下划时（手机上）变紧凑，划回顶部恢复。
+  const head = document.querySelector(".masthead");
+  const calEl = document.querySelector(".cal");
+  const readEl = $("reading");
+  const isNarrow = () => window.matchMedia("(max-width: 760px)").matches;   // 手机/窄屏：日历在上、内容在下
+  const headBottom = () => head.getBoundingClientRect().bottom;
+  const smooth = () => (reduceMotion ? "auto" : "smooth");
+  function syncHead() {
+    const y = window.scrollY;
+    head.classList.toggle("is-stuck", y > 2);
+    // 有缓冲区：划过 64px 才变紧凑，回到 16px 以内才恢复，避免在临界点来回跳
+    if (y > 64) head.classList.add("is-compact"); else if (y < 16) head.classList.remove("is-compact");
+    document.documentElement.style.setProperty("--head-h", head.getBoundingClientRect().height + "px");
+  }
+  window.addEventListener("scroll", syncHead, { passive: true });
+  window.addEventListener("scrollend", syncHead);
+  window.addEventListener("resize", syncHead);
+  // 把某个元素滚到页头下方
+  function scrollUnderHead(el) {
+    const top = el.getBoundingClientRect().top - headBottom() - 8;
+    if (Math.abs(top) > 4) window.scrollBy({ top, behavior: smooth() });
+  }
+  // 换了一天的内容后：如果内容开头不在屏幕上（被页头挡住、或在屏幕下方很远），就滚到内容开头
+  function showReadingStart() {
+    const r = readEl.getBoundingClientRect();
+    if (r.top < headBottom() || r.top > window.innerHeight - 140) scrollUnderHead(readEl);
+  }
+  // 「回到今天」「回顾」：手机上先把日历滚到眼前，让读者看到快速翻页；电脑上日历一直可见，只把内容滚回开头
+  function bringCalendar() {
+    if (isNarrow()) {
+      const r = calEl.getBoundingClientRect();
+      if (r.top < headBottom() - 1 || r.bottom > window.innerHeight) scrollUnderHead(calEl);
+    } else if (window.scrollY > 0) {
+      window.scrollTo({ top: 0, behavior: smooth() });
+    }
+  }
+
   var jumpTimer = null, jumpTarget = null;   // 正在进行的快速翻页及其目的地（见 jumpTo）
   function stopJump() { clearTimeout(jumpTimer); jumpTarget = null; }
   function select(key) {
@@ -226,16 +266,26 @@
     const d = parse(key);
     view = new Date(d.getFullYear(), d.getMonth(), 1);
     renderCalendar(); renderReading();
+    // 内容变短时浏览器会把页面拉回上方但不一定触发滚动事件，这里按实际位置重新同步页头状态
+    syncHead();
   }
 
+  // 换语言时保持读者正在看的段落位置不跳：记下页头下方第一个段落，换完后把它放回原来的高度
   function setLang(l) {
+    const parts = () => [...readEl.querySelectorAll(":scope > header, .scripture, .section-label, .interp, .acts > *, .pager")];
+    const hb = headBottom();
+    const before = parts();
+    const i = before.findIndex(el => el.getBoundingClientRect().bottom > hb + 4);
+    const y0 = i >= 0 && window.scrollY > 0 ? before[i].getBoundingClientRect().top : null;
     lang = l;
     try { localStorage.setItem("lt-lang", l); } catch (e) {}
     renderAll();
+    syncHead();
+    if (y0 !== null) { const el = parts()[i]; if (el) window.scrollBy(0, el.getBoundingClientRect().top - y0); }
   }
 
-  $("cal-days").addEventListener("click", e => { const b = e.target.closest("[data-date]"); if (b) select(b.dataset.date); });
-  $("reading").addEventListener("click", e => { const b = e.target.closest("[data-go]"); if (b && b.dataset.go) select(b.dataset.go); });
+  $("cal-days").addEventListener("click", e => { const b = e.target.closest("[data-date]"); if (b) { select(b.dataset.date); showReadingStart(); } });
+  $("reading").addEventListener("click", e => { const b = e.target.closest("[data-go]"); if (b && b.dataset.go) { select(b.dataset.go); showReadingStart(); } });
   // 切换月份；dir = -1 上个月，1 下个月。带一个轻微的滑入动画
   function shiftMonth(dir, cls) {
     view.setMonth(view.getMonth() + dir);
@@ -248,7 +298,6 @@
 
   // 「回到今天」「回顾一期」跳转：相隔一个月以上时，日历先一个月一个月地快速翻过去，
   // 让读者看得出日期走了很远；翻到目标月份后再显示当天内容。整个过程约半秒
-  const reduceMotion = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
   function jumpTo(key) {
     if (!key) return;
     stopJump();
@@ -289,7 +338,15 @@
     if (fast && Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy) * 1.5) { stopJump(); shiftMonth(dx < 0 ? 1 : -1); }
   }, { passive: true });
   cal.addEventListener("touchcancel", () => { touch = null; }, { passive: true });
-  $("btn-today").addEventListener("click", () => jumpTo(todayIso));
+  $("btn-today").addEventListener("click", () => { bringCalendar(); jumpTo(todayIso); });
+  // 点标题「生命同行营」：回到首页，和刚打开网页时一样（页面回到顶部、日历和内容回到默认的一天；语言保持不变）
+  function goHome() {
+    menuOpen(false);
+    if (window.scrollY > 0) window.scrollTo({ top: 0, behavior: smooth() });
+    jumpTo(defaultDate());
+  }
+  $("brand-home").addEventListener("click", goHome);
+  $("brand-home").addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); goHome(); } });
   // 「回顾往期」下拉选单：点按钮打开/关上；选了某一期就跳过去并关上；点别处或按 Esc 也关上
   const menuOpen = open => {
     const m = $("past-menu"), b = $("btn-past");
@@ -301,6 +358,7 @@
     const b = e.target.closest("[data-session]");
     if (!b) return;
     menuOpen(false);
+    bringCalendar();
     jumpTo(SESSIONS[+b.dataset.session].start);
   });
   document.addEventListener("click", e => { if (!e.target.closest(".review-wrap")) menuOpen(false); });
@@ -314,10 +372,11 @@
     if (e.target.closest("input, textarea")) return;
     const step = e.key === "ArrowLeft" ? -1 : e.key === "ArrowRight" ? 1 : 0;
     if (!step) return;
-    const d = parse(selected); d.setDate(d.getDate() + step); select(iso(d));
+    const d = parse(selected); d.setDate(d.getDate() + step); select(iso(d)); showReadingStart();
   });
 
   renderAll();
+  syncHead();
 
   // 只显示到今天时：每分钟检查一次，到了发布时间或跨过午夜就自动刷新
   if (!showAll) {
