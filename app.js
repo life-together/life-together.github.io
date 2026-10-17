@@ -1,20 +1,38 @@
 // 生命同行营 / Life Together：读取 prayers.js 中的 window.PRAYERS，显示月历与当日灵修（中 / EN）。
 (function () {
   const all = window.PRAYERS || [];
-  const cfg = Object.assign({ isAllContentDisplayed: 1, publishTime: "19:00", timeZone: "" }, window.CONFIG || {});
+  const cfg = Object.assign({ isAllContentDisplayed: 1, publishTime: "22:00", timeZone: "" }, window.CONFIG || {});
+  // 检查 config.js 的设置；写错时用安全的默认值，并在浏览器控制台提示（网页照常显示）
+  const warnCfg = msg => console.warn("config.js：" + msg);
+  if (![0, 1].includes(Number(cfg.isAllContentDisplayed))) warnCfg("isAllContentDisplayed 应为 0 或 1，现按 0（只显示到今天）处理");
   const showAll = Number(cfg.isAllContentDisplayed) === 1;
+  const pt = String(cfg.publishTime).trim().match(/^(\d{1,2}):(\d{2})$/);
+  if (!pt || +pt[1] > 23 || +pt[2] > 59) { warnCfg(`publishTime 应写成 "22:00" 这样的 24 小时制，现按 "22:00" 处理`); cfg.publishTime = "22:00"; }
+  if (cfg.timeZone) {
+    try { new Intl.DateTimeFormat("en", { timeZone: cfg.timeZone }); }
+    catch (e) { warnCfg(`timeZone "${cfg.timeZone}" 无法识别，现按读者设备的本地时间处理`); cfg.timeZone = ""; }
+  }
   const [pubH, pubM] = String(cfg.publishTime).split(":").map(Number);
   const publishMin = (pubH || 0) * 60 + (pubM || 0);
   // 发布时间的显示文字（全站统一用 24 小时制），例如 "22:00"
   const mm = String(pubM || 0).padStart(2, "0");
   const publish24 = `${String(pubH || 0).padStart(2, "0")}:${mm}`;
-  // 各期的起止日期（含首尾两天；以后有新的一期，在这里加一行）。
-  // 日历上看到的日期在哪一期之内，标题就显示哪一期；不在任何一期之内，标题不显示期数。
-  // 一期结束之后（今天晚于结束日期），会自动出现这一期的「回顾」按钮
-  const SESSIONS = [
-    { start: "2026-02-02", end: "2026-04-26", zh: "第一期", en: "Session 1" },   // 12 周
-    { start: "2026-09-14", end: "2027-02-14", zh: "第二期", en: "Session 2" },   // 22 周
+  // 各期的起止日期：从 config.js 的 sessions 读取；没写或写错时用下面的默认值（并在浏览器控制台提示）。
+  // 名称按顺序自动生成：第一期 / Session 1……
+  const DEFAULT_SESSIONS = [
+    { start: "2026-02-02", end: "2026-04-26" },
+    { start: "2026-09-14", end: "2027-02-14" },
   ];
+  const CN_NUM = ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];
+  const cnNum = n => n <= 10 ? CN_NUM[n - 1] : n < 20 ? "十" + CN_NUM[n - 11] : CN_NUM[Math.floor(n / 10) - 1] + "十" + (n % 10 ? CN_NUM[n % 10 - 1] : "");
+  function loadSessions(list) {
+    const ok = Array.isArray(list) && list.length && list.every((x, i) =>
+      x && /^\d{4}-\d{2}-\d{2}$/.test(x.start) && /^\d{4}-\d{2}-\d{2}$/.test(x.end) && x.start <= x.end &&
+      (i === 0 || list[i - 1].end < x.start));
+    if (list !== undefined && !ok) console.warn("config.js 里的 sessions 格式不对（日期要写成 \"2026-09-14\"，按先后排列、不能重叠），已改用默认日期");
+    return (ok ? list : DEFAULT_SESSIONS).map((x, i) => ({ start: x.start, end: x.end, zh: `第${cnNum(i + 1)}期`, en: `Session ${i + 1}` }));
+  }
+  const SESSIONS = loadSessions(cfg.sessions);
   const sessionOf = key => SESSIONS.find(x => x.start <= key && key <= x.end);
 
   // 当前日期与时间（按 cfg.timeZone；为空则用读者设备的本地时间）

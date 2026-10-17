@@ -61,6 +61,7 @@ Edit `config.js`:
 | | `0` | Show devotions only up to today; today's devotion appears at `publishTime` |
 | `publishTime` | e.g. `"22:00"` | Release time for today's devotion (24-hour clock). Used only when `isAllContentDisplayed` is `0` |
 | `timeZone` | e.g. `"America/Toronto"` | Time zone used for "today" and the release time. Use `""` to follow each reader's own device |
+| `sessions` | e.g. `[{ start: "2026-02-02", end: "2026-04-26" }, …]` | Start and end date of each session (inclusive), in order. Names are generated automatically (第一期 / Session 1, …). The header shows the session for the date being viewed, and a session's review button appears after it ends. If missing or invalid, built-in defaults are used |
 
 When `isAllContentDisplayed` is `0`, an open page checks once a minute and updates itself at the release time and after midnight.
 
