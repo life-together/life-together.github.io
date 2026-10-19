@@ -6620,5 +6620,419 @@ window.PRAYERS = [
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
   }
+ },
+ {
+  "date": "2026-10-19",
+  "weekday": "周一",
+  "ref": "约翰二书 1:7-9",
+  "verses": [
+   {
+    "v": 7,
+    "t": "因为世上有许多迷惑人的出来，他们不认耶稣基督是成了肉身来的；这就是那迷惑人、敌基督的。"
+   },
+   {
+    "v": 8,
+    "t": "你们要小心，不要失去你们所做的工，乃要得着满足的赏赐。"
+   },
+   {
+    "v": 9,
+    "t": "凡越过基督的教训不常守着的，就没有　神；常守这教训的，就有父又有子。"
+   }
+  ],
+  "title": "常守基督的教训",
+  "interpretation": "约翰在劝勉彼此相爱之后，立刻发出警告：世上有许多迷惑人的出来，不认耶稣基督是成了肉身来的。耶稣是真神，也是真人，这是福音的根基；否认这一点，就是敌基督。约翰说，凡越过基督的教训、不常守着的，就没有神；常守这教训的，就有父又有子。成熟不是寻找比基督更新的东西，而是更深地住在祂里面。今天，让我们谨慎分辨所听的教导，不失去所做的工，在基督里得着满足的赏赐。",
+  "prayer": {
+   "adoration": "天父，我赞美祢差遣祢的独生子道成肉身，住在我们中间。主耶稣，祢是真神也是真人，祢的十字架和复活是我们得救唯一的根基。",
+   "confession": "主啊，我承认我常被新奇的说法吸引，不愿意安静地常守祢的话；我也常凭自己的感觉判断真假，没有用圣经来分辨。求祢赦免我的轻率和懒惰。",
+   "thanksgiving": "感谢祢，主耶稣，祢为我们成了肉身、受死、复活，使我们借着祢有父又有子。感谢祢保守我们的信心，也应许给忠心的人满足的赏赐。",
+   "supplication": "求祢赐我分辨的心，在各样声音中认出祢的真理。求祢保守我们的教会常守基督的教训，也保守我的家人和年轻一代不被迷惑。愿我今天不越过祢，而是更深地住在祢里面。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "2 John 1:7–9",
+   "verses": [
+    {
+     "v": 7,
+     "t": "For many deceivers have gone out into the world, refusing to confess the coming of Jesus Christ in the flesh. Any such person is the deceiver and the antichrist."
+    },
+    {
+     "v": 8,
+     "t": "Watch yourselves, so that you do not lose what we have worked for, but that you may be fully rewarded."
+    },
+    {
+     "v": 9,
+     "t": "Anyone who runs ahead without remaining in the teaching of Christ does not have God. Whoever remains in His teaching has both the Father and the Son."
+    }
+   ],
+   "title": "Remain in the Teaching of Christ",
+   "interpretation": "Right after urging love, John gives a warning: many deceivers have gone out, “refusing to confess the coming of Jesus Christ in the flesh.” Jesus is truly God and truly man; this is the foundation of the gospel, and denying it is the spirit of antichrist. John says that “anyone who runs ahead without remaining in the teaching of Christ does not have God.” Spiritual growth is not running past Christ toward something new but abiding more deeply in Him. Today, let us test what we hear, so that we do not lose what we have worked for.",
+   "prayer": {
+    "adoration": "Father, I praise You for sending Your only Son to become flesh and dwell among us. Lord Jesus, You are truly God and truly man, and Your cross and resurrection are the only foundation of our salvation.",
+    "confession": "Lord, I confess that I am often drawn to new and exciting ideas and do not quietly remain in Your word. I judge truth by my feelings instead of testing it by Scripture. Forgive my carelessness and laziness.",
+    "thanksgiving": "Thank You, Lord Jesus, for becoming flesh, dying, and rising again, so that through You we have both the Father and the Son. Thank You for guarding our faith and promising a full reward to the faithful.",
+    "supplication": "Give me a discerning heart to recognize Your truth among many voices. Keep our church remaining in the teaching of Christ, and protect my family and the younger generation from deception. Today, let me not run ahead of You but abide more deeply in You."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "weekday": "周二",
+  "ref": "约翰二书 1:10-13",
+  "verses": [
+   {
+    "v": 10,
+    "t": "若有人到你们那里，不是传这教训，不要接他到家里，也不要问他的安；"
+   },
+   {
+    "v": 11,
+    "t": "因为问他安的，就在他的恶行上有分。"
+   },
+   {
+    "v": 12,
+    "t": "我还有许多事要写给你们，却不愿意用纸墨写出来，但盼望到你们那里，与你们当面谈论，使你们的喜乐满足。"
+   },
+   {
+    "v": 13,
+    "t": "你那蒙拣选之姊妹的儿女都问你安。"
+   }
+  ],
+  "title": "在真理中的界线",
+  "interpretation": "约翰吩咐：若有人来，不是传基督的教训，不要接他到家里，也不要问他的安。当时教会多在信徒家中聚会，接待巡回的教师，就等于为他的教导开门、作担保。这并不是叫我们对人冷漠无礼，而是不可帮助假教导在教会中扩散。爱心需要真理来定界线。信的末了，约翰盼望与他们当面谈论，使彼此的喜乐满足。真理守住了，团契的喜乐才完全；而这喜乐最终来自我们在基督里的相交。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是信实的神，祢的真理永不改变。祢以爱保护祢的儿女，也给祢的教会智慧，在真理中彼此相爱。",
+   "confession": "主啊，我承认我有时为了避免冲突，对错误的教导保持沉默；有时又以真理为名，对人冷漠刻薄。我的爱缺少真理，我的真理也缺少爱，求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢是道路、真理、生命，祢用自己的话保守我们不偏离。感谢祢赐下弟兄姊妹的相交，使我们能当面彼此鼓励，喜乐满足。",
+   "supplication": "求祢赐教会的牧者和同工智慧，在接待人的事上既有爱心，又守住真理的界线。求祢帮助我在家中和职场中，说话温柔而诚实。也求祢使我们的团契充满在基督里真实的喜乐。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "2 John 1:10–13",
+   "verses": [
+    {
+     "v": 10,
+     "t": "If anyone comes to you but does not bring this teaching, do not receive him into your home or even greet him."
+    },
+    {
+     "v": 11,
+     "t": "Whoever greets such a person shares in his evil deeds."
+    },
+    {
+     "v": 12,
+     "t": "I have many things to write to you, but I would prefer not to do so with paper and ink. Instead, I hope to come and speak with you face to face, so that our joy may be complete."
+    },
+    {
+     "v": 13,
+     "t": "The children of your elect sister send you greetings."
+    }
+   ],
+   "title": "Boundaries in the Truth",
+   "interpretation": "John instructs, “If anyone comes to you but does not bring this teaching, do not receive him into your home.” In those days churches usually met in believers' homes, and welcoming a traveling teacher meant opening the door to his teaching and endorsing it. This is not a call to be cold or rude to people, but a warning not to help false teaching spread. Love needs truth to set its boundaries. John closes hoping to speak with them face to face, “so that our joy may be complete.” When the truth is guarded, our fellowship in Christ becomes full of joy.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are faithful and Your truth never changes. In love You protect Your children, and You give Your church wisdom to love one another in the truth.",
+    "confession": "Lord, I confess that sometimes I stay silent about false teaching to avoid conflict, and at other times I use the truth as an excuse to be cold and harsh. My love lacks truth, and my truth lacks love. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You are the way, the truth, and the life, and that You keep us from straying by Your word. Thank You for the fellowship of brothers and sisters, so that we can encourage one another face to face.",
+    "supplication": "Give the pastors and leaders of our church wisdom to welcome others with love while guarding the boundaries of the truth. Help me speak gently and honestly at home and at work. Fill our fellowship with true joy in Christ."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "weekday": "周三",
+  "ref": "约翰三书 1:1-4",
+  "verses": [
+   {
+    "v": 1,
+    "t": "作长老的写信给亲爱的该犹，就是我诚心所爱的。"
+   },
+   {
+    "v": 2,
+    "t": "亲爱的兄弟啊，我愿你凡事兴盛，身体健壮，正如你的灵魂兴盛一样。"
+   },
+   {
+    "v": 3,
+    "t": "有弟兄来证明你心里存的真理，正如你按真理而行，我就甚喜乐。"
+   },
+   {
+    "v": 4,
+    "t": "我听见我的儿女们按真理而行，我的喜乐就没有比这个大的。"
+   }
+  ],
+  "title": "灵魂兴盛的喜乐",
+  "interpretation": "约翰三书是写给该犹的私人书信。约翰称他为「我诚心所爱的」，并为他祝福：愿你凡事兴盛，身体健壮，正如你的灵魂兴盛一样。这是古代书信惯用的祝愿，并非应许信徒必定富足健康；约翰真正看重的是该犹灵魂的兴盛。弟兄们见证该犹按真理而行，约翰说，他的喜乐没有比这个更大的。属灵的长者最大的喜乐，不是别人的成就，而是看见儿女们在基督的真理中行走。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是赐生命的神，祢不只看顾我们的身体，更看重我们的灵魂。祢的真理使人得自由，也使人在祢面前兴盛。",
+   "confession": "主啊，我承认我常常更在乎外在的兴盛，关心收入、健康和别人的眼光，却忽略了灵魂的光景。我也常常只是知道真理，却没有按真理而行。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢舍命使我们的灵魂得救，又赐下属灵的长辈和同伴，用爱心为我们祷告。感谢祢让我们在别人按真理而行的见证中看见祢的恩典。",
+   "supplication": "求祢使我的灵魂在祢里面兴盛，也看顾我和家人的身体。求祢帮助我像约翰一样为人祷告，为弟兄姊妹的长进而喜乐。求祢使我们的孩子和年轻人按真理而行，成为父母和教会的喜乐。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "3 John 1:1–4",
+   "verses": [
+    {
+     "v": 1,
+     "t": "The elder, To the beloved Gaius, whom I love in the truth:"
+    },
+    {
+     "v": 2,
+     "t": "Beloved, I pray that in every way you may prosper and enjoy good health, as your soul also prospers."
+    },
+    {
+     "v": 3,
+     "t": "For I was overjoyed when the brothers came and testified about your devotion to the truth, in which you continue to walk."
+    },
+    {
+     "v": 4,
+     "t": "I have no greater joy than to hear that my children are walking in the truth."
+    }
+   ],
+   "title": "When the Soul Prospers",
+   "interpretation": "Third John is a personal letter to Gaius, whom John calls “the beloved.” John writes, “I pray that in every way you may prosper and enjoy good health, as your soul also prospers.” This is not a promise that believers will always be rich and healthy; it reflects the customary well-wishing of ancient letters. What John truly treasures is the health of Gaius's soul. Brothers testified that Gaius walked in the truth, and John says, “I have no greater joy than to hear that my children are walking in the truth.” That is the greatest joy of every spiritual father.",
+   "prayer": {
+    "adoration": "Father, I praise You as the God who gives life. You care for our bodies, and You care even more for our souls. Your truth sets us free and makes us flourish before You.",
+    "confession": "Lord, I confess that I often care more about outward success, about income, health, and what others think, while I neglect the condition of my soul. I often know the truth without walking in it. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, for laying down Your life to save our souls and for giving us spiritual mentors and friends who pray for us in love. Thank You for showing us Your grace through those who walk in the truth.",
+    "supplication": "Make my soul prosper in You, and watch over the health of my family and me. Help me pray for others as John did and rejoice in their growth. Let our children and young people walk in the truth and bring joy to their parents and our church."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "weekday": "周四",
+  "ref": "约翰三书 1:5-8",
+  "verses": [
+   {
+    "v": 5,
+    "t": "亲爱的兄弟啊，凡你向作客旅之弟兄所行的都是忠心的。"
+   },
+   {
+    "v": 6,
+    "t": "他们在教会面前证明了你的爱；你若配得过　神，帮助他们往前行，这就好了。"
+   },
+   {
+    "v": 7,
+    "t": "因他们是为主的名出外，对于外邦人一无所取。"
+   },
+   {
+    "v": 8,
+    "t": "所以我们应该接待这样的人，叫我们与他们一同为真理做工。"
+   }
+  ],
+  "title": "与真理同工",
+  "interpretation": "该犹接待了一些作客旅的弟兄，他们本来与他素不相识，他却忠心地帮助。这些弟兄为主的名出外传道，对于外邦人一无所取。约翰鼓励该犹以配得过神的方式送他们往前行，因为这样，我们就与他们一同为真理做工。不是每个人都出去传道，但每个人都可以接待、供应、代祷，在福音的工作上有分。我们这样做，是因为基督先接纳了我们这些原本与神隔绝的客旅。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是乐意接纳人的神。祢差遣祢的儿子来寻找失丧的人，又差遣祢的仆人把福音传到地极。",
+   "confession": "主啊，我承认我常常只顾自己的家和自己的需要，对陌生的弟兄姊妹缺少接待的心。我对传福音的人和宣教的事工也常常冷淡，很少代祷，更少供应。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，在我还是远离神的客旅时，祢就接纳了我，使我成为神家里的人。感谢祢让我们也能借着接待和供应，与传福音的人一同为真理做工。",
+   "supplication": "求祢开启我的心和我的家，乐意接待主内的弟兄姊妹。求祢记念我们所认识的宣教士和传道人，供应他们一切的需要。也求祢帮助我们的教会在供应福音事工上忠心，与他们一同做工。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "3 John 1:5–8",
+   "verses": [
+    {
+     "v": 5,
+     "t": "Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you."
+    },
+    {
+     "v": 6,
+     "t": "They have testified to the church about your love. You will do well to send them on their way in a manner worthy of God."
+    },
+    {
+     "v": 7,
+     "t": "For they went out on behalf of the Name, accepting nothing from the Gentiles."
+    },
+    {
+     "v": 8,
+     "t": "Therefore we ought to support such men, so that we may be fellow workers for the truth."
+    }
+   ],
+   "title": "Fellow Workers for the Truth",
+   "interpretation": "Gaius had welcomed traveling brothers who were strangers to him, and John says, “you are faithful in what you are doing for the brothers.” These men went out on behalf of the Name, “accepting nothing from the Gentiles.” John urges Gaius to send them on their way in a manner worthy of God, “so that we may be fellow workers for the truth.” Not everyone goes out to preach, but everyone can welcome, provide, and pray, and so share in the work of the gospel. We do this because Christ first welcomed us when we were strangers far from God.",
+   "prayer": {
+    "adoration": "Father, I praise You as the God who delights to welcome people. You sent Your Son to seek the lost, and You send Your servants to carry the gospel to the ends of the earth.",
+    "confession": "Lord, I confess that I often think only of my own home and needs and have little desire to welcome brothers and sisters I do not know. I am often cold toward those who preach the gospel and toward missions, rarely praying or giving. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, for welcoming me while I was still a stranger far from God and making me a member of His household. Thank You that we can also work with those who preach the gospel by welcoming them and providing for them.",
+    "supplication": "Open my heart and my home to welcome brothers and sisters in the Lord. Remember the missionaries and pastors we know, and provide for all their needs. Help our church be faithful in supporting gospel work and in laboring alongside them."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-23",
+  "weekday": "周五",
+  "ref": "约翰三书 1:9-10",
+  "verses": [
+   {
+    "v": 9,
+    "t": "我曾略略地写信给教会，但那在教会中好为首的丢特腓不接待我们。"
+   },
+   {
+    "v": 10,
+    "t": "所以我若去，必要提说他所行的事，就是他用恶言妄论我们。还不以此为足，他自己不接待弟兄，有人愿意接待，他也禁止，并且将接待弟兄的人赶出教会。"
+   }
+  ],
+  "title": "好为首的危险",
+  "interpretation": "与该犹相反，丢特腓在教会中好为首，不接待约翰和他所差的人。他不仅用恶言妄论约翰，自己不接待弟兄，还禁止别人接待，甚至把接待的人赶出教会。问题的根源是骄傲：他看重自己的地位，胜过看重主和弟兄。约翰说他若去，必要提说这些事，因为教会是基督的，不是任何人的。主耶稣说，谁愿为首，就必作众人的仆人；祂自己正是这样来服事人的。",
+  "prayer": {
+   "adoration": "主耶稣，我赞美祢是教会的元首。祢本有神的形像，却虚己成为仆人，来服事人，并且舍命作多人的赎价。",
+   "confession": "主啊，我承认我心里也有丢特腓的影子。我喜欢被人看重，盼望自己的意见占上风；别人得到肯定时，我会嫉妒，甚至在背后说人的不是。求祢赦免我的骄傲和恶言。",
+   "thanksgiving": "感谢祢，主耶稣，祢没有因为我的骄傲弃绝我，反而降卑自己，为我死在十字架上。感谢祢仍然掌管祢的教会，保守她在真理和爱中。",
+   "supplication": "求祢除去我心中好为首的欲望，使我乐意作众人的仆人。求祢保守教会的牧者和同工谦卑服事，彼此尊重。求祢帮助我今天说造就人的话，不说毁谤的话，并且乐意接待弟兄姊妹。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "3 John 1:9–10",
+   "verses": [
+    {
+     "v": 9,
+     "t": "I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction."
+    },
+    {
+     "v": 10,
+     "t": "So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church."
+    }
+   ],
+   "title": "The Danger of Loving to Be First",
+   "interpretation": "In contrast to Gaius stands Diotrephes, “who loves to be first.” He refused John's instruction, spread malicious slander against John and his companions, would not welcome the brothers, and even put out of the church those who did. The root of the problem was pride: he prized his own position above the Lord and His people. John will deal with it when he comes, because the church belongs to Christ, not to any person. Jesus said that whoever wants to be first must be the servant of all, and He Himself came to serve.",
+   "prayer": {
+    "adoration": "Lord Jesus, I praise You as the Head of the church. Though You were in the form of God, You emptied Yourself, took the form of a servant, and gave Your life as a ransom for many.",
+    "confession": "Lord, I confess that there is something of Diotrephes in me. I like to be noticed and want my opinion to win. When others are praised I feel envy, and sometimes I speak badly of them behind their backs. Forgive my pride and my unkind words.",
+    "thanksgiving": "Thank You, Lord Jesus, that You did not reject me for my pride but humbled Yourself and died for me on the cross. Thank You that You still rule over Your church and keep her in truth and love.",
+    "supplication": "Remove from my heart the desire to be first, and make me glad to be the servant of all. Keep our church leaders humble and respectful of one another. Help me today speak words that build up, and gladly welcome my brothers and sisters."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "weekday": "周六",
+  "ref": "约翰三书 1:11-15",
+  "verses": [
+   {
+    "v": 11,
+    "t": "亲爱的兄弟啊，不要效法恶，只要效法善。行善的属乎　神；行恶的未曾见过　神。"
+   },
+   {
+    "v": 12,
+    "t": "低米丢行善，有众人给他作见证，又有真理给他作见证，就是我们也给他作见证。你也知道我们的见证是真的。"
+   },
+   {
+    "v": 13,
+    "t": "我原有许多事要写给你，却不愿意用笔墨写给你，"
+   },
+   {
+    "v": 14,
+    "t": "但盼望快快地见你，我们就当面谈论。"
+   },
+   {
+    "v": 15,
+    "t": "愿你平安。众位朋友都问你安。请你替我按着姓名问众位朋友安。"
+   }
+  ],
+  "title": "效法善，属乎神",
+  "interpretation": "约翰劝该犹：不要效法恶，只要效法善。行善的属乎神，行恶的未曾见过神。我们的行为显明我们属于谁。紧接着，约翰推荐低米丢：众人为他作见证，真理也为他作见证。低米丢可能就是带这封信的人，与丢特腓正好成了对比。信的末了，约翰盼望当面谈论，并按着姓名问众位朋友安。神的家不是冷冰冰的机构，而是在基督里彼此认识、彼此相爱的家人。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是良善的神，一切美善都从祢而来。祢认识祢的每一个儿女，按着名字呼召我们，使我们在基督里成为一家人。",
+   "confession": "主啊，我承认我常常随从世界的榜样，效法恶多过效法善。我的生活常常没有显出我是属祢的，也没有为真理作美好的见证。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢是我们完美的榜样，祢的恩典使我们能够行善。感谢祢在教会中赐下像低米丢那样有好见证的弟兄姊妹，也感谢祢赐给我们按着名字彼此问安的朋友。",
+   "supplication": "求祢帮助我效法善，使我的生活有真理为我作见证。求祢让我们在教会中彼此认识、彼此问安，不只是一同聚会，更是一同生活。也求祢使我们的家成为在社区中行善的见证。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "3 John 1:11–14",
+   "verses": [
+    {
+     "v": 11,
+     "t": "Beloved, do not imitate what is evil, but what is good. The one who does good is of God; the one who does evil has not seen God."
+    },
+    {
+     "v": 12,
+     "t": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true."
+    },
+    {
+     "v": 13,
+     "t": "I have many things to write to you, but I would prefer not to do so with pen and ink."
+    },
+    {
+     "v": 14,
+     "t": "Instead, I hope to see you soon and speak with you face to face. Peace to you. The friends here send you greetings. Greet each of our friends there by name."
+    }
+   ],
+   "title": "Imitate What Is Good",
+   "interpretation": "John urges Gaius, “do not imitate what is evil, but what is good.” “The one who does good is of God; the one who does evil has not seen God.” Our conduct shows whom we belong to. John then commends Demetrius, who “has received a good testimony from everyone, and from the truth itself.” Demetrius may have carried this letter, and he stands in contrast to Diotrephes. John closes hoping to meet face to face and asks Gaius to greet the friends by name. God's household is not a cold institution but a family that knows and loves one another in Christ.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are good, and every good thing comes from You. You know each of Your children, You call us by name, and You make us one family in Christ.",
+    "confession": "Lord, I confess that I often follow the world's example and imitate what is evil more than what is good. My life often does not show that I belong to You or bear good witness to the truth. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You are our perfect example and that Your grace enables us to do good. Thank You for brothers and sisters in the church who, like Demetrius, have a good testimony, and for friends who greet one another by name.",
+    "supplication": "Help me imitate what is good, so that the truth itself testifies to my life. Help us know and greet one another in the church, not only meeting together but living life together. Make our home a witness of goodness in our neighborhood."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "weekday": "周日",
+  "ref": "雅各书 1:1-4",
+  "verses": [
+   {
+    "v": 1,
+    "t": "作　神和主耶稣基督仆人的雅各请散住十二个支派之人的安。"
+   },
+   {
+    "v": 2,
+    "t": "我的弟兄们，你们落在百般试炼中，都要以为大喜乐；"
+   },
+   {
+    "v": 3,
+    "t": "因为知道你们的信心经过试验，就生忍耐。"
+   },
+   {
+    "v": 4,
+    "t": "但忍耐也当成功，使你们成全、完备，毫无缺欠。"
+   }
+  ],
+  "title": "在试炼中喜乐",
+  "interpretation": "今天开始读雅各书。作者雅各是主耶稣的弟弟，却自称是神和主耶稣基督的仆人。他一开头就说：你们落在百般试炼中，都要以为大喜乐。这不是说试炼本身令人快乐，而是知道信心经过试验，就生忍耐；忍耐成功，就使我们成全、完备。神在试炼中不是要毁掉我们，而是要塑造我们，使我们更像基督。祂自己也经过苦难，因此能体恤我们。今天主日，让我们把正面对的难处带到祂面前。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是掌管万事的神，没有一样试炼在祢的手以外。祢用一切的境遇塑造祢的儿女，要使我们成全、完备，毫无缺欠。",
+   "confession": "主啊，我承认面对难处时，我常常埋怨、焦虑，想尽快逃离，而不是信靠祢。我只想要轻松的道路，不愿意让忍耐在我身上成就祢的工作。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢为我们忍受了十字架的苦难，使我们在苦难中也有盼望。感谢祢应许，信心经过试验会生出忍耐，祢在我身上动了善工，必成全这工。",
+   "supplication": "求祢在今天的主日敬拜中坚固我的信心，使我能以试炼为喜乐。求祢记念正在疾病、失业、家庭难处中的弟兄姊妹，赐他们忍耐和盼望。也求祢帮助我们彼此扶持，一同走在信心的路上。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:1–4",
+   "verses": [
+    {
+     "v": 1,
+     "t": "James, a servant of God and of the Lord Jesus Christ, To the twelve tribes of the Dispersion: Greetings."
+    },
+    {
+     "v": 2,
+     "t": "Consider it pure joy, my brothers, when you encounter trials of many kinds,"
+    },
+    {
+     "v": 3,
+     "t": "because you know that the testing of your faith develops perseverance."
+    },
+    {
+     "v": 4,
+     "t": "Allow perseverance to finish its work, so that you may be mature and complete, not lacking anything."
+    }
+   ],
+   "title": "Joy in Trials",
+   "interpretation": "Today we begin the letter of James. James, the brother of the Lord Jesus, calls himself “a servant of God and of the Lord Jesus Christ.” He opens with a surprising command: “Consider it pure joy, my brothers, when you encounter trials of many kinds.” Trials are not pleasant in themselves, but we know that “the testing of your faith develops perseverance,” and perseverance makes us mature and complete. God uses trials not to destroy us but to shape us into the likeness of Christ, who suffered and understands us. This Lord's Day, let us bring our hardships to Him.",
+   "prayer": {
+    "adoration": "Father, I praise You as the God who rules over all things; no trial lies outside Your hand. You use every circumstance to shape Your children, so that we may be mature and complete, not lacking anything.",
+    "confession": "Lord, I confess that when hardships come I often complain and worry and want to escape instead of trusting You. I want an easy road and do not want perseverance to do Your work in me. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, for enduring the cross for us, so that we have hope even in suffering. Thank You for promising that tested faith produces perseverance, and that You will complete the good work You began in me.",
+    "supplication": "Strengthen my faith in today's Lord's Day worship, so that I may count trials as joy. Remember brothers and sisters facing illness, job loss, and family struggles, and give them perseverance and hope. Help us support one another as we walk together in faith."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
  }
 ];
