@@ -28,7 +28,7 @@ A bilingual (Chinese / English) daily devotional calendar. Each day pairs a shor
 | Sep 14 – Oct 16 | 1 John 1:1 – 5:21 |
 | Oct 17 – Oct 20 | 2 John 1:1–13 |
 | Oct 21 – Oct 24 | 3 John 1:1–14 |
-| Oct 25 | James 1:1–4 |
+| Oct 25 – Nov 1 | James 1:1–27 |
 
 New days are added in batches.
 

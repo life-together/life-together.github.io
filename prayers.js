@@ -7034,5 +7034,399 @@ window.PRAYERS = [
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
   }
+ },
+ {
+  "date": "2026-10-26",
+  "weekday": "周一",
+  "ref": "雅各书 1:5-8",
+  "verses": [
+   {
+    "v": 5,
+    "t": "你们中间若有缺少智慧的，应当求那厚赐与众人、也不斥责人的　神，主就必赐给他。"
+   },
+   {
+    "v": 6,
+    "t": "只要凭着信心求，一点不疑惑；因为那疑惑的人，就像海中的波浪，被风吹动翻腾。"
+   },
+   {
+    "v": 7,
+    "t": "这样的人不要想从主那里得什么。"
+   },
+   {
+    "v": 8,
+    "t": "心怀二意的人，在他一切所行的路上都没有定见。"
+   }
+  ],
+  "title": "凭信心求智慧",
+  "interpretation": "在试炼中，我们最需要的往往不是答案，而是智慧：知道如何在难处中顺服神。雅各说，缺少智慧的，应当求那厚赐与众人、也不斥责人的神。神不是吝啬的，也不会因我们来求而责备我们。但我们要凭着信心求，一点不疑惑。心怀二意的人像海中的波浪，一会儿信靠神，一会儿又倚靠自己。基督就是神的智慧，我们在祂里面可以坦然无惧地来到施恩的宝座前。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是厚赐与众人的神。祢的智慧无法测度，祢乐意把智慧赐给求告祢的人，从不斥责那些来到祢面前的儿女。",
+   "confession": "主啊，我承认在难处中我常常先靠自己的聪明，到了无路可走才来求祢。我求的时候又常常疑惑，一面向祢祷告，一面心里另有打算，像被风吹动的波浪。求祢赦免我的二心。",
+   "thanksgiving": "感谢祢，主耶稣，祢就是神的智慧，祢为我们开了一条又新又活的路，使我们可以坦然来到施恩的宝座前。感谢祢从来没有因为我软弱而拒绝我。",
+   "supplication": "求祢赐我智慧，在今天要面对的工作、家庭和人际关系中，知道怎样行才蒙祢喜悦。求祢除去我的疑惑，使我专心信靠祢。也求祢赐教会的牧者和同工属天的智慧来带领群羊。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:5–8",
+   "verses": [
+    {
+     "v": 5,
+     "t": "Now if any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him."
+    },
+    {
+     "v": 6,
+     "t": "But he must ask in faith, without doubting, because he who doubts is like a wave of the sea, blown and tossed by the wind."
+    },
+    {
+     "v": 7,
+     "t": "That man should not expect to receive anything from the Lord."
+    },
+    {
+     "v": 8,
+     "t": "He is a double-minded man, unstable in all his ways."
+    }
+   ],
+   "title": "Ask for Wisdom in Faith",
+   "interpretation": "In trials we often need wisdom more than answers: knowing how to obey God in the middle of difficulty. James says that anyone who lacks wisdom “should ask God, who gives generously to all without finding fault.” God is not stingy, and He does not scold us for coming to Him. But we “must ask in faith, without doubting.” The double-minded person is like a wave of the sea, trusting God one moment and himself the next. Christ is the wisdom of God, and in Him we may come boldly to the throne of grace.",
+   "prayer": {
+    "adoration": "Father, I praise You as the God who gives generously to all. Your wisdom is beyond measure, and You delight to give it to those who call on You, never scolding the children who come to You.",
+    "confession": "Lord, I confess that in hard times I often rely on my own understanding first and only ask You when I have run out of options. When I pray, I often doubt, asking You while keeping my own plans, like a wave tossed by the wind. Forgive my divided heart.",
+    "thanksgiving": "Thank You, Lord Jesus, that You are the wisdom of God and have opened a new and living way for us to come boldly to the throne of grace. Thank You that You have never turned me away because of my weakness.",
+    "supplication": "Give me wisdom for my work, family, and relationships today, so that I know how to please You. Take away my doubts; help me trust You. Give the pastors and leaders of our church heavenly wisdom to lead the flock."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "weekday": "周二",
+  "ref": "雅各书 1:9-11",
+  "verses": [
+   {
+    "v": 9,
+    "t": "卑微的弟兄升高，就该喜乐；"
+   },
+   {
+    "v": 10,
+    "t": "富足的降卑，也该如此；因为他必要过去，如同草上的花一样。"
+   },
+   {
+    "v": 11,
+    "t": "太阳出来，热风刮起，草就枯干，花也凋谢，美容就消没了；那富足的人，在他所行的事上也要这样衰残。"
+   }
+  ],
+  "title": "贫富都在主里夸口",
+  "interpretation": "雅各说，卑微的弟兄升高，就该喜乐；富足的降卑，也该如此。贫穷的信徒在世上被人轻看，在基督里却是神的儿女、天国的后嗣；富足的信徒要记得，人和财富都像草上的花，日晒就凋谢。我们的价值不在于拥有多少，而在于在基督里的身份。主耶稣本来富足，却为我们成了贫穷，叫我们因祂的贫穷可以成为富足。无论贫富，都可以在主里喜乐，也在主里谦卑。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是万有的主宰，金银都属于祢。祢叫卑微的升高，叫骄傲的降卑，祢看人不是看外表和财富，而是看内心。",
+   "confession": "主啊，我承认我常常用金钱和地位来衡量自己和别人。缺乏时我自卑、埋怨，富足时我又自满、倚靠钱财，忘记这一切都像草上的花一样会过去。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢本来富足，却为我们成了贫穷，使我们因祢的贫穷成为富足。感谢祢让我在祢里面有永不朽坏的产业，这是谁也夺不去的。",
+   "supplication": "求祢帮助经济困难的弟兄姊妹在祢里面得着尊贵和盼望，也供应他们的需要。求祢帮助有余的人谦卑、慷慨地分享。求祢使我今天不被钱财辖制，单单以祢为我的满足。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:9–11",
+   "verses": [
+    {
+     "v": 9,
+     "t": "The brother in humble circumstances should exult in his high position."
+    },
+    {
+     "v": 10,
+     "t": "But the one who is rich should exult in his low position, because he will pass away like a flower of the field."
+    },
+    {
+     "v": 11,
+     "t": "For the sun rises with scorching heat and withers the plant; its flower falls and its beauty is lost. So too, the rich man will fade away in the midst of his pursuits."
+    }
+   ],
+   "title": "Rich and Poor Boasting in the Lord",
+   "interpretation": "James writes, “The brother in humble circumstances should exult in his high position. But the one who is rich should exult in his low position.” Poor believers may be looked down on in this world, yet in Christ they are children of God and heirs of the kingdom. Rich believers must remember that he and his riches will fade like a flower of the field. Our worth lies not in what we own but in who we are in Christ, who became poor so that we might become rich. Rich or poor, we can rejoice and be humble in the Lord.",
+   "prayer": {
+    "adoration": "Father, I praise You as the Lord of all; the silver and gold are Yours. You lift up the humble and bring down the proud, and You look not at outward appearance or wealth but at the heart.",
+    "confession": "Lord, I confess that I often measure myself and others by money and status. When I lack, I feel inferior and complain; when I have plenty, I grow proud and trust in riches, forgetting that it will all pass away like a flower of the field. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that though You were rich, You became poor for our sake, so that through Your poverty we might become rich. Thank You for an inheritance in You that can never perish and that no one can take away.",
+    "supplication": "Help those facing financial hardship find dignity and hope in You, and provide for their needs. Help those who have more to share humbly and generously. Keep me today from being ruled by money, and may You alone be my satisfaction."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "weekday": "周三",
+  "ref": "雅各书 1:12-15",
+  "verses": [
+   {
+    "v": 12,
+    "t": "忍受试探的人是有福的，因为他经过试验以后，必得生命的冠冕；这是主应许给那些爱他之人的。"
+   },
+   {
+    "v": 13,
+    "t": "人被试探，不可说：「我是被　神试探」；因为　神不能被恶试探，他也不试探人。"
+   },
+   {
+    "v": 14,
+    "t": "但各人被试探，乃是被自己的私欲牵引诱惑的。"
+   },
+   {
+    "v": 15,
+    "t": "私欲既怀了胎，就生出罪来；罪既长成，就生出死来。"
+   }
+  ],
+  "title": "试炼与试探",
+  "interpretation": "忍受试炼的人是有福的，经过试验以后，必得生命的冠冕。可是同样的处境，也可能成为犯罪的试探。雅各提醒：人被试探，不可说是被神试探，因为神不试探人。真正的根源在我们里面，是自己的私欲牵引诱惑。私欲怀胎生出罪，罪长成生出死。这是一条从心思到行为、再到灭亡的路。感谢主，基督已经胜过试探，又为我们死而复活，使我们能靠祂及早拒绝私欲的牵引。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是圣洁的神，祢不能被恶试探，也不试探人。祢应许把生命的冠冕赐给爱祢的人，祢的应许永不落空。",
+   "confession": "主啊，我承认我犯罪的时候，常常怪环境、怪别人，甚至在心里埋怨祢。其实是我自己的私欲牵引了我。我常常没有在罪还小的时候就拒绝它，任由它在心里长大。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢在旷野受了试探，却没有犯罪，所以祢能体恤我们的软弱。感谢祢为我们的罪死在十字架上，又从死里复活，把生命赐给我们，而不是死亡。",
+   "supplication": "求祢保守我的心思意念，使我在私欲刚出现时就转向祢。求祢帮助正在试炼中的弟兄姊妹忍耐到底。也求祢保守我们的家庭和年轻人，远离网络和世俗的引诱。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:12–15",
+   "verses": [
+    {
+     "v": 12,
+     "t": "Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love Him."
+    },
+    {
+     "v": 13,
+     "t": "When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does He tempt anyone."
+    },
+    {
+     "v": 14,
+     "t": "But each one is tempted when by his own evil desires he is lured away and enticed."
+    },
+    {
+     "v": 15,
+     "t": "Then after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death."
+    }
+   ],
+   "title": "Trials and Temptation",
+   "interpretation": "“Blessed is the man who perseveres under trial,” for he “will receive the crown of life.” Yet the same situation can also become a temptation to sin. James warns that no one should blame God when tempted, “For God cannot be tempted by evil, nor does He tempt anyone.” The real source is within us: each one is lured away by his own evil desires. Desire conceives and gives birth to sin, and sin, when full-grown, gives birth to death. Thank God that Christ resisted every temptation and died and rose for us, so that in Him we can refuse sinful desire early.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are holy; You cannot be tempted by evil, and You tempt no one. You promise the crown of life to those who love You, and Your promises never fail.",
+    "confession": "Lord, I confess that when I sin I often blame my circumstances or other people, and even grumble against You in my heart. But it is my own desire that lures me away. I often fail to refuse sin while it is small and let it grow in my heart. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You were tempted in the wilderness yet did not sin, so You can sympathize with our weakness. Thank You for dying on the cross for our sins and rising from the dead to give us life instead of death.",
+    "supplication": "Guard my thoughts, and help me turn to You as soon as desire appears. Help brothers and sisters in trials to persevere to the end. Protect our families and young people from online and worldly temptations."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-29",
+  "weekday": "周四",
+  "ref": "雅各书 1:16-18",
+  "verses": [
+   {
+    "v": 16,
+    "t": "我亲爱的弟兄们，不要看错了。"
+   },
+   {
+    "v": 17,
+    "t": "各样美善的恩赐和各样全备的赏赐都是从上头来的，从众光之父那里降下来的；在他并没有改变，也没有转动的影儿。"
+   },
+   {
+    "v": 18,
+    "t": "他按自己的旨意，用真道生了我们，叫我们在他所造的万物中好像初熟的果子。"
+   }
+  ],
+  "title": "从众光之父来的恩赐",
+  "interpretation": "雅各说，不要看错了：罪不是从神来的，各样美善的恩赐和全备的赏赐，都是从上头、从众光之父那里降下来的。天上的光体会移动，会有阴影，但神没有改变，也没有转动的影儿。祂最大的恩赐，就是按自己的旨意，用真道生了我们。我们得着新生命，不是因为我们自己的决定或功劳，而是出于神的恩典和主动。我们就像初熟的果子，见证神在基督里要更新祂所造的万物。",
+  "prayer": {
+   "adoration": "众光之父，我赞美祢！各样美善的恩赐都从祢而来，祢永不改变，也没有转动的影儿。祢按自己的旨意，用真道生了我们。",
+   "confession": "主啊，我承认我常常看错了，把祢的恩赐当作自己赚来的，忘了感谢；遇到难处时又怀疑祢的良善，以为祢变了。求祢赦免我的忘恩和小信。",
+   "thanksgiving": "感谢祢，天父，祢差遣主耶稣来，借着福音的真道使我重生，使我从死里活过来。感谢祢每天赐下日用的饮食、家人和弟兄姊妹，这些都是从祢来的美好礼物。",
+   "supplication": "求祢开我的眼睛，在平凡的日子里看见祢的恩赐。求祢使我们的教会像初熟的果子，在社区中彰显基督的新生命。也求祢用真道使我身边还没有信主的家人朋友得着新生。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:16–18",
+   "verses": [
+    {
+     "v": 16,
+     "t": "Do not be deceived, my beloved brothers."
+    },
+    {
+     "v": 17,
+     "t": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, with whom there is no change or shifting shadow."
+    },
+    {
+     "v": 18,
+     "t": "He chose to give us birth through the word of truth, that we would be a kind of firstfruits of His creation."
+    }
+   ],
+   "title": "Every Good Gift from Above",
+   "interpretation": "“Do not be deceived, my beloved brothers.” Sin does not come from God; “every good and perfect gift is from above, coming down from the Father of the heavenly lights.” The lights in the sky move and cast shadows, but with God there is “no change or shifting shadow.” His greatest gift is this: “He chose to give us birth through the word of truth.” Our new life comes not from our own decision or merit but from God's gracious initiative. We are a kind of firstfruits, a sign that God will renew all creation in Christ.",
+   "prayer": {
+    "adoration": "Father of lights, I praise You! Every good and perfect gift comes from You. You never change, and with You there is no shifting shadow. By Your own will You gave us new birth through the word of truth.",
+    "confession": "Lord, I confess that I am often deceived. I treat Your gifts as though I earned them and forget to give thanks, and in hard times I doubt Your goodness as if You had changed. Forgive my ingratitude and my little faith.",
+    "thanksgiving": "Thank You, Father, for sending the Lord Jesus and giving me new birth through the word of the gospel, raising me from death to life. Thank You for daily bread, family, and brothers and sisters; all of them are good gifts from You.",
+    "supplication": "Open my eyes to see Your gifts in ordinary days. Make our church like firstfruits that display Christ's new life in our neighborhood. Use Your word of truth to give new birth to family members and friends around me who do not yet believe."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "weekday": "周五",
+  "ref": "雅各书 1:19-21",
+  "verses": [
+   {
+    "v": 19,
+    "t": "我亲爱的弟兄们，这是你们所知道的。但你们各人要快快地听，慢慢地说，慢慢地动怒，"
+   },
+   {
+    "v": 20,
+    "t": "因为人的怒气并不成就　神的义。"
+   },
+   {
+    "v": 21,
+    "t": "所以，你们要脱去一切的污秽和盈余的邪恶，存温柔的心领受那所栽种的道，就是能救你们灵魂的道。"
+   }
+  ],
+  "title": "快快地听，慢慢地说",
+  "interpretation": "雅各劝勉：各人要快快地听，慢慢地说，慢慢地动怒，因为人的怒气并不成就神的义。我们常常相反：急着说话，急着辩解，很快就发怒。人的怒气看似在维护公义，其实常常出于骄傲。雅各接着说，要脱去一切污秽和邪恶，存温柔的心领受那所栽种的道。神的话已经栽在我们心里，能救我们的灵魂。安静地听神的话，才能学会耐心地听人的话。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是不轻易发怒、有丰盛慈爱的神。祢的话语栽种在我们心里，能救我们的灵魂，祢一直耐心地对我们说话。",
+   "confession": "主啊，我承认我常常急着说、慢着听，还没听完就下结论；在家里和教会中，我很快就发怒，还以为自己是对的。我的怒气没有成就祢的义，反而伤害了别人。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢被人辱骂却不还口，受害也不说威吓的话。感谢祢的话语栽种在我心里，一次次纠正我、安慰我，使我的灵魂得救。",
+   "supplication": "求祢赐我温柔的心领受祢的道，也学会耐心地听家人、同事和弟兄姊妹说话。在我想发怒的时候，求圣灵提醒我先安静下来。求祢使我们的家和教会成为彼此倾听、彼此饶恕的地方。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:19–21",
+   "verses": [
+    {
+     "v": 19,
+     "t": "My beloved brothers, understand this: Everyone should be quick to listen, slow to speak, and slow to anger,"
+    },
+    {
+     "v": 20,
+     "t": "for man’s anger does not bring about the righteousness that God desires."
+    },
+    {
+     "v": 21,
+     "t": "Therefore, get rid of all moral filth and every expression of evil, and humbly accept the word planted in you, which can save your souls."
+    }
+   ],
+   "title": "Quick to Listen, Slow to Speak",
+   "interpretation": "James urges, “Everyone should be quick to listen, slow to speak, and slow to anger, for man’s anger does not bring about the righteousness that God desires.” We often do the opposite: we rush to speak, rush to defend ourselves, and quickly become angry. Our anger may look like a defense of what is right, but it often comes from pride. James goes on to call us to put away all filth and evil and to “humbly accept the word planted in you, which can save your souls.” When we quietly listen to God's word, we learn to listen patiently to others.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are slow to anger and abounding in love. Your word is planted in our hearts and is able to save our souls, and You keep speaking to us with patience.",
+    "confession": "Lord, I confess that I am quick to speak and slow to listen, often drawing conclusions before I have heard everything. At home and in the church I become angry quickly and think I am right. My anger does not bring about Your righteousness; it hurts others. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that when You were insulted, You did not insult in return, and when You suffered, You made no threats. Thank You for planting Your word in my heart to correct and comfort me again and again.",
+    "supplication": "Give me a humble heart to receive Your word and patience to listen to others. When I want to lash out, let the Spirit remind me to be quiet first. Make our home and church places where we listen to and forgive one another."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "weekday": "周六",
+  "ref": "雅各书 1:22-25",
+  "verses": [
+   {
+    "v": 22,
+    "t": "只是你们要行道，不要单单听道，自己欺哄自己。"
+   },
+   {
+    "v": 23,
+    "t": "因为听道而不行道的，就像人对着镜子看自己本来的面目，"
+   },
+   {
+    "v": 24,
+    "t": "看见，走后，随即忘了他的相貌如何。"
+   },
+   {
+    "v": 25,
+    "t": "惟有详细察看那全备、使人自由之律法的，并且时常如此，这人既不是听了就忘，乃是实在行出来，就在他所行的事上必然得福。"
+   }
+  ],
+  "title": "行道，不单听道",
+  "interpretation": "雅各说：你们要行道，不要单单听道，自己欺哄自己。听道而不行道的人，像对着镜子看自己的人，走开就忘了自己的样子。神的话像一面镜子，照出我们真实的光景。但雅各称它为全备、使人自由的律法，因为在基督里，神的话不再是定罪的重担，而是使人得自由的道路。行道不是为了赚取救恩，而是蒙恩之人的回应。时常详细察看、实在行出来的人，必然得福。",
+  "prayer": {
+   "adoration": "天父，我赞美祢！祢的话语全备、使人自由，像镜子一样照出我们的光景，也指引我们走生命的道路。",
+   "confession": "主啊，我承认我常常听了许多道，却很少行出来。我在聚会中感动，回到生活中却很快忘记；我看见了自己的问题，却不愿意改变，还以为听过就够了。求祢赦免我自己欺哄自己。",
+   "thanksgiving": "感谢祢，主耶稣，祢完全遵行了父的旨意，又为我们这些不能遵行的人死在十字架上。感谢祢借着圣灵把祢的话写在我们心里，使我们能够甘心乐意地遵行。",
+   "supplication": "求祢帮助我今天把读过的经文行出来，哪怕只是一件小事。求祢使我不单单知道真理，也活出真理。也求祢使我们的教会不只是听道的教会，更是行道的教会，在家庭和社区中见证祢。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:22–25",
+   "verses": [
+    {
+     "v": 22,
+     "t": "Be doers of the word, and not hearers only. Otherwise, you are deceiving yourselves."
+    },
+    {
+     "v": 23,
+     "t": "For anyone who hears the word but does not carry it out is like a man who looks at his face in a mirror,"
+    },
+    {
+     "v": 24,
+     "t": "and after observing himself goes away and immediately forgets what he looks like."
+    },
+    {
+     "v": 25,
+     "t": "But the one who looks intently into the perfect law of freedom, and continues to do so—not being a forgetful hearer, but an effective doer—he will be blessed in what he does."
+    }
+   ],
+   "title": "Doers of the Word",
+   "interpretation": "James says, “Be doers of the word, and not hearers only. Otherwise, you are deceiving yourselves.” A hearer who does not act is like a man who looks at his face in a mirror and immediately forgets what he looks like. God's word is a mirror that shows us as we really are. Yet James calls it “the perfect law of freedom,” because in Christ God's word is no longer a burden that condemns but a path to freedom. Doing the word does not earn salvation; it is the response of those who have received grace, and such doers will be blessed.",
+   "prayer": {
+    "adoration": "Father, I praise You! Your word is perfect and gives freedom. Like a mirror it shows us who we really are, and it guides us on the path of life.",
+    "confession": "Lord, I confess that I have heard many sermons but put little into practice. I am moved during worship but quickly forget once I am back in daily life. I see my problems but do not want to change, thinking that hearing is enough. Forgive me for deceiving myself.",
+    "thanksgiving": "Thank You, Lord Jesus, that You perfectly obeyed the Father's will and died on the cross for us who could not obey. Thank You for writing Your word on our hearts by the Spirit, so that we can obey You gladly.",
+    "supplication": "Help me put into practice today the Scripture I have read, even in one small way. Let me not only know the truth but also live it. Make our church not only a hearing church but a doing church, bearing witness to You in our homes and community."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "weekday": "周日",
+  "ref": "雅各书 1:26-27",
+  "verses": [
+   {
+    "v": 26,
+    "t": "若有人自以为虔诚，却不勒住他的舌头，反欺哄自己的心，这人的虔诚是虚的。"
+   },
+   {
+    "v": 27,
+    "t": "在　神我们的父面前，那清洁没有玷污的虔诚，就是看顾在患难中的孤儿寡妇，并且保守自己不沾染世俗。"
+   }
+  ],
+  "title": "清洁没有玷污的虔诚",
+  "interpretation": "雅各指出，若有人自以为虔诚，却不勒住舌头，他的虔诚是虚的。在神面前，清洁没有玷污的虔诚有两面：一面是看顾在患难中的孤儿寡妇，用行动爱那些无力回报我们的人；另一面是保守自己不沾染世俗。真虔诚不在于宗教的外表，而是向外爱人，向内圣洁。这正是神自己的心意：祂在基督里看顾了我们这些无依无靠的人。这个主日，让我们在敬拜之后，把这份爱带到需要的人中间。",
+  "prayer": {
+   "adoration": "我们的父神，我赞美祢是孤儿的父、寡妇的伸冤者。祢是圣洁的神，也是怜悯的神，祢看顾一切困苦无助的人。",
+   "confession": "主啊，我承认我常常以为参加聚会、读经祷告就是虔诚，却不勒住自己的舌头，说了许多伤人的话。我对身边有需要的人视而不见，又常常被世俗的价值观沾染。求祢赦免我虚假的虔诚。",
+   "thanksgiving": "感谢祢，主耶稣，在我们无依无靠的时候，祢来寻找我们，为我们舍命，使我们成为神家里的儿女。感谢祢的宝血洗净我们，使我们能在父面前成为圣洁。",
+   "supplication": "求祢在今天的主日敬拜中更新我，使我的敬拜延伸到生活中。求祢让我们的教会看见身边的孤儿、寡妇、独居老人和新移民，用实际的行动去关怀。也求祢保守我的口和我的心，不沾染世俗。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 1:26–27",
+   "verses": [
+    {
+     "v": 26,
+     "t": "If anyone considers himself religious and yet does not bridle his tongue, he deceives his heart and his religion is worthless."
+    },
+    {
+     "v": 27,
+     "t": "Pure and undefiled religion before our God and Father is this: to care for orphans and widows in their distress, and to keep oneself from being polluted by the world."
+    }
+   ],
+   "title": "Pure and Undefiled Religion",
+   "interpretation": "James warns that if anyone considers himself religious “and yet does not bridle his tongue,” his religion is worthless. “Pure and undefiled religion before our God and Father” has two sides: “to care for orphans and widows in their distress,” loving those who cannot repay us, and “to keep oneself from being polluted by the world.” True religion is not outward ritual but love toward others and holiness within. This reflects the heart of God, who in Christ cared for us when we were helpless. On this Lord's Day, let us carry that love beyond worship to those in need.",
+   "prayer": {
+    "adoration": "Our God and Father, I praise You as the father of the fatherless and the defender of widows. You are holy, You are merciful, and You care for all who are poor and helpless.",
+    "confession": "Lord, I confess that I often think going to church, reading the Bible, and praying make me religious, yet I do not bridle my tongue and I say many hurtful things. I overlook the needy around me and am often polluted by worldly values. Forgive my empty religion.",
+    "thanksgiving": "Thank You, Lord Jesus, that when we were helpless You came to seek us, gave Your life for us, and made us children in God's household. Thank You that Your blood washes us clean so that we can stand holy before the Father.",
+    "supplication": "Renew me in today's Lord's Day worship, so that my worship continues into daily life. Help our church see the orphans, widows, lonely elderly, and newcomers around us, and care for them practically. Guard my mouth and my heart from the pollution of the world."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
  }
 ];
