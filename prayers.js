@@ -7428,5 +7428,407 @@ window.PRAYERS = [
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
   }
+ },
+ {
+  "date": "2026-11-02",
+  "weekday": "周一",
+  "ref": "雅各书 2:1-4",
+  "verses": [
+   {
+    "v": 1,
+    "t": "我的弟兄们，你们信奉我们荣耀的主耶稣基督，便不可按着外貌待人。"
+   },
+   {
+    "v": 2,
+    "t": "若有一个人带着金戒指，穿着华美衣服，进你们的会堂去；又有一个穷人穿着肮脏衣服也进去；"
+   },
+   {
+    "v": 3,
+    "t": "你们就重看那穿华美衣服的人，说：「请坐在这好位上」；又对那穷人说：「你站在那里」，或「坐在我脚凳下边。」"
+   },
+   {
+    "v": 4,
+    "t": "这岂不是你们偏心待人，用恶意断定人吗？"
+   }
+  ],
+  "title": "不可按外貌待人",
+  "interpretation": "雅各说，你们信奉我们荣耀的主耶稣基督，便不可按着外貌待人。他举了一个聚会中的例子：穿华美衣服的人被请到好位上，穷人却被叫站着或坐在脚凳下边。这样做，就是偏心待人，用恶意断定人。我们所信的主满有荣耀，却降卑自己，与卑微的人同坐。在祂面前，人人都是蒙恩的罪人。今天，让我们留意自己怎样看待身边的人，用基督的眼光接纳每一个人。",
+  "prayer": {
+   "adoration": "荣耀的主耶稣，我赞美祢！祢本有无比的荣耀，却甘愿降卑，与税吏和罪人同席，祢不看人的外貌，只看人的内心。",
+   "confession": "主啊，我承认我常常按外貌待人。我对有钱、有地位、有能力的人格外热情，对贫穷、不起眼或与我不同的人却冷淡疏远。在教会中我也有偏心，用恶意断定人。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，在我一无所有的时候，祢没有轻看我，反而接纳我，使我在祢的家中有一个位置。感谢祢的恩典不是按着我的条件，而是按着祢的慈爱。",
+   "supplication": "求祢更新我的眼光，使我用祢的爱看待每一个人。求祢帮助我们的教会热情接待新来的朋友，不论贫富、学历、背景和口音。也求祢使我今天主动关心一位常常被忽略的人。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:1–4",
+   "verses": [
+    {
+     "v": 1,
+     "t": "My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism."
+    },
+    {
+     "v": 2,
+     "t": "Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in."
+    },
+    {
+     "v": 3,
+     "t": "If you lavish attention on the man in fine clothes and say, “Here is a seat of honor,” but say to the poor man, “You must stand” or “Sit at my feet,”"
+    },
+    {
+     "v": 4,
+     "t": "have you not discriminated among yourselves and become judges with evil thoughts?"
+    }
+   ],
+   "title": "Do Not Show Favoritism",
+   "interpretation": "James writes, “as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism.” He gives an example from a gathering: the man in fine clothes is offered a seat of honor, while the poor man is told to stand or sit at someone's feet. Such behavior makes us “judges with evil thoughts.” The Lord we believe in is full of glory, yet He humbled Himself and sat with the lowly. Before Him, all of us are sinners saved by grace. Today, let us notice how we view people and welcome everyone with the eyes of Christ.",
+   "prayer": {
+    "adoration": "Glorious Lord Jesus, I praise You! Though You possess unmatched glory, You humbled Yourself and ate with tax collectors and sinners. You do not look at outward appearance but at the heart.",
+    "confession": "Lord, I confess that I often show favoritism. I am warm toward people who are wealthy, important, or gifted, but cold toward those who are poor, unnoticed, or different from me. Even in church I take sides and judge with evil thoughts. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that when I had nothing, You did not despise me but welcomed me and gave me a place in Your household. Thank You that Your grace depends not on my qualifications but on Your love.",
+    "supplication": "Renew the way I see others, so that I look at every person with Your love. Help our church warmly welcome newcomers regardless of wealth, education, background, or accent. Help me today reach out to someone who is often overlooked."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-03",
+  "weekday": "周二",
+  "ref": "雅各书 2:5-7",
+  "verses": [
+   {
+    "v": 5,
+    "t": "我亲爱的弟兄们，请听，　神岂不是拣选了世上的贫穷人，叫他们在信上富足，并承受他所应许给那些爱他之人的国吗？"
+   },
+   {
+    "v": 6,
+    "t": "你们反倒羞辱贫穷人。那富足人岂不是欺压你们、拉你们到公堂去吗？"
+   },
+   {
+    "v": 7,
+    "t": "他们不是亵渎你们所敬奉的尊名吗？"
+   }
+  ],
+  "title": "在信上富足",
+  "interpretation": "雅各问：神岂不是拣选了世上的贫穷人，叫他们在信上富足，并承受祂所应许的国吗？世人以财富衡量人，神却常常拣选被世人轻看的人，叫他们在信心上富足。可是当时的教会反倒羞辱贫穷人，去讨好那些欺压他们、亵渎主名的富足人。偏心不只是礼貌问题，而是违背了神拣选的恩典。我们得蒙拣选，不是因为我们有什么，而是因为神的怜悯。这样的恩典叫我们不再以财富看人。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是拣选人的神！祢拣选世上软弱的、卑微的，叫他们在信上富足，又应许把祢的国赐给爱祢的人。",
+   "confession": "主啊，我承认我常常羡慕世上的富足，却轻看信心上的富足。我讨好那些能给我好处的人，却忽略了贫穷的弟兄姊妹，甚至在心里羞辱他们。求祢赦免我颠倒的价值观。",
+   "thanksgiving": "感谢祢，天父，祢拣选我不是因为我有什么可夸的，而是因为祢的怜悯。感谢主耶稣使我成为祢国度的后嗣，得着那永不朽坏、不能衰残的基业。",
+   "supplication": "求祢使我在信上富足，看重祢的国过于世上的财富。求祢帮助我们的教会尊重每一位贫穷的肢体，让他们在神的家中得着尊严。也求祢使我所行的尊荣祢的名，不让祢的名因我受亏损。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:5–7",
+   "verses": [
+    {
+     "v": 5,
+     "t": "Listen, my beloved brothers: Has not God chosen the poor of this world to be rich in faith and to inherit the kingdom He promised those who love Him?"
+    },
+    {
+     "v": 6,
+     "t": "But you have dishonored the poor. Is it not the rich who oppress you and drag you into court?"
+    },
+    {
+     "v": 7,
+     "t": "Are they not the ones who blaspheme the noble name by which you have been called?"
+    }
+   ],
+   "title": "Rich in Faith",
+   "interpretation": "James asks, “Has not God chosen the poor of this world to be rich in faith and to inherit the kingdom He promised those who love Him?” The world measures people by wealth, but God often chooses those whom the world despises and makes them rich in faith. Yet the church had dishonored the poor while seeking favor from the rich who oppressed them and blasphemed the Lord's name. Favoritism is not a matter of manners; it goes against God's gracious choice. We were chosen not for what we have but by God's mercy, and that grace frees us from judging others by wealth.",
+   "prayer": {
+    "adoration": "Father, I praise You as the God who chooses! You choose the weak and lowly of this world, make them rich in faith, and promise Your kingdom to those who love You.",
+    "confession": "Lord, I confess that I often envy worldly wealth and look down on riches of faith. I try to please people who can benefit me but neglect poor brothers and sisters, even despising them in my heart. Forgive my upside-down values.",
+    "thanksgiving": "Thank You, Father, that You chose me not because I had anything to boast about but because of Your mercy. Thank You, Lord Jesus, for making me an heir of Your kingdom with an inheritance that can never perish or fade.",
+    "supplication": "Make me rich in faith, valuing Your kingdom above the wealth of this world. Help our church honor every poor member so that they find dignity in God's household. Let my life honor Your name and never bring it shame."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "weekday": "周三",
+  "ref": "雅各书 2:8-11",
+  "verses": [
+   {
+    "v": 8,
+    "t": "经上记着说：「要爱人如己。」你们若全守这至尊的律法才是好的。"
+   },
+   {
+    "v": 9,
+    "t": "但你们若按外貌待人，便是犯罪，被律法定为犯法的。"
+   },
+   {
+    "v": 10,
+    "t": "因为凡遵守全律法的，只在一条上跌倒，他就是犯了众条。"
+   },
+   {
+    "v": 11,
+    "t": "原来那说「不可奸淫」的，也说「不可杀人」；你就是不奸淫，却杀人，仍是成了犯律法的。"
+   }
+  ],
+  "title": "至尊的律法",
+  "interpretation": "雅各引用经上的话：「要爱人如己」，称它为至尊的律法。按外貌待人看似小事，其实是犯罪，被律法定为犯法的。雅各接着说，凡遵守全律法的，只在一条上跌倒，就是犯了众条，因为颁布每一条诫命的都是同一位神。这叫我们看见，没有人能靠守律法在神面前称义。唯有主耶稣完全遵守了律法，又为我们担当了违背律法的咒诅。蒙了这样的恩典，我们就要用爱邻舍来回应。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是圣洁公义的神！祢的律法完全，每一条都出自祢的口，祢吩咐我们要爱人如己，因为祢先爱了我们。",
+   "confession": "主啊，我承认我常常以为自己没有犯大罪，就比别人好。我按外貌待人，没有爱邻舍如同自己。在祢的律法面前，我在许多事上跌倒，是一个犯律法的人。求祢怜悯我、赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢完全遵守了律法，又在十字架上为我担当了律法的咒诅。感谢祢把祢的义归给我，使我这犯律法的人在父面前被称为义。",
+   "supplication": "求圣灵帮助我真心地爱人如己，特别是那些我不容易去爱的人。求祢使我不再拿自己和别人比较，而是常常仰望祢的十字架。也求祢使我们的教会在爱邻舍的事上成为社区的祝福。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:8–11",
+   "verses": [
+    {
+     "v": 8,
+     "t": "If you really fulfill the royal law stated in Scripture, “Love your neighbor as yourself,” you are doing well."
+    },
+    {
+     "v": 9,
+     "t": "But if you show favoritism, you sin and are convicted by the law as transgressors."
+    },
+    {
+     "v": 10,
+     "t": "Whoever keeps the whole law but stumbles at just one point is guilty of breaking all of it."
+    },
+    {
+     "v": 11,
+     "t": "For He who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery, but do commit murder, you have become a lawbreaker."
+    }
+   ],
+   "title": "The Royal Law",
+   "interpretation": "James quotes the royal law stated in Scripture, “Love your neighbor as yourself.” Showing favoritism may seem minor, but it is sin, and those who do it are convicted by the law as transgressors. James adds that “whoever keeps the whole law but stumbles at just one point is guilty of breaking all of it,” because every command comes from the same God. This shows that no one can be justified before God by keeping the law. Only the Lord Jesus kept it perfectly and bore its curse for us. Having received such grace, we respond by loving our neighbors.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are holy and righteous! Your law is perfect, every command comes from Your mouth, and You command us to love our neighbors as ourselves because You first loved us.",
+    "confession": "Lord, I confess that I often think I am better than others because I have not committed great sins. I show favoritism and do not love my neighbor as myself. Before Your law I have stumbled in many ways; I am a lawbreaker. Have mercy on me and forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, for keeping the law perfectly and bearing its curse for me on the cross. Thank You for giving me Your righteousness, so that I, a lawbreaker, am declared righteous before the Father.",
+    "supplication": "Holy Spirit, help me truly love my neighbor as myself, especially those who are hard for me to love. Keep me from comparing myself with others, and help me look to the cross. Make our church a blessing to our community through love for our neighbors."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-05",
+  "weekday": "周四",
+  "ref": "雅各书 2:12-13",
+  "verses": [
+   {
+    "v": 12,
+    "t": "你们既然要按使人自由的律法受审判，就该照这律法说话行事。"
+   },
+   {
+    "v": 13,
+    "t": "因为那不怜悯人的，也要受无怜悯的审判；怜悯原是向审判夸胜。"
+   }
+  ],
+  "title": "怜悯向审判夸胜",
+  "interpretation": "雅各劝勉我们：既然要按使人自由的律法受审判，就该照这律法说话行事。因为那不怜悯人的，也要受无怜悯的审判；怜悯原是向审判夸胜。这不是说我们靠怜悯人来赚取救恩，而是说真正蒙了神怜悯的人，必然会怜悯人。我们的罪本该受审判，但在十字架上，神的怜悯胜过了审判。一个常常记得自己蒙了大怜悯的人，就不会苛刻地论断别人。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是满有怜悯的神！祢不按我们的罪过待我们，在十字架上，祢的怜悯胜过了审判，使罪人可以与祢和好。",
+   "confession": "主啊，我承认我常常对自己宽容，对别人苛刻。我要求别人完美，却忘了自己蒙了多大的怜悯。我的言语常常带着论断，没有照使人自由的律法说话行事。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢替我承受了公义的审判，使我不再被定罪。感谢祢每天以新的怜悯待我，在我跌倒的时候扶持我，在我软弱的时候体恤我。",
+   "supplication": "求祢使我常常记得自己所蒙的怜悯，也用怜悯待人。求祢帮助我今天对家人、同事和得罪我的人，说怜悯的话，行怜悯的事。也求祢使我们的教会成为一个彼此饶恕、彼此扶持的群体。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:12–13",
+   "verses": [
+    {
+     "v": 12,
+     "t": "Speak and act as those who are going to be judged by the law that gives freedom."
+    },
+    {
+     "v": 13,
+     "t": "For judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment."
+    }
+   ],
+   "title": "Mercy Triumphs over Judgment",
+   "interpretation": "James urges us, “Speak and act as those who are going to be judged by the law that gives freedom.” He explains, “judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment.” This does not mean we earn salvation by showing mercy; it means that those who have truly received God's mercy will show mercy to others. Our sins deserved judgment, but at the cross God's mercy triumphed. Those who remember how much mercy they have received will not judge others harshly.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are rich in mercy! You do not treat us as our sins deserve. At the cross Your mercy triumphed over judgment, so that sinners can be reconciled to You.",
+    "confession": "Lord, I confess that I am easy on myself and hard on others. I expect others to be perfect while I forget how much mercy I have received. My words are often full of judgment, and I do not speak and act by the law that gives freedom. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, for bearing the righteous judgment in my place, so that I am no longer condemned. Thank You for new mercies every day, for holding me up when I fall and sympathizing with me when I am weak.",
+    "supplication": "Help me always remember the mercy I have received and show mercy to others. Today, help me speak and act mercifully toward my family, coworkers, and those who have wronged me. Make our church a community that forgives and supports one another."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-06",
+  "weekday": "周五",
+  "ref": "雅各书 2:14-17",
+  "verses": [
+   {
+    "v": 14,
+    "t": "我的弟兄们，若有人说自己有信心，却没有行为，有什么益处呢？这信心能救他吗？"
+   },
+   {
+    "v": 15,
+    "t": "若是弟兄或是姊妹，赤身露体，又缺了日用的饮食；"
+   },
+   {
+    "v": 16,
+    "t": "你们中间有人对他们说：「平平安安地去吧！愿你们穿得暖，吃得饱」，却不给他们身体所需用的，这有什么益处呢？"
+   },
+   {
+    "v": 17,
+    "t": "这样，信心若没有行为就是死的。"
+   }
+  ],
+  "title": "信心若没有行为",
+  "interpretation": "雅各问：若有人说自己有信心，却没有行为，这信心能救他吗？他举例说，弟兄姊妹缺衣少食，有人只说「平平安安地去吧」，却什么也不给，这有什么益处呢？同样，信心若没有行为就是死的。雅各不是说行为能救人，而是说那种只停在口头上、从不改变生命的「信心」，根本不是得救的真信心。真正信靠基督的人，必定会结出爱的果子。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是信实的神！祢不只用言语爱我们，更差遣祢的儿子来到世间，用行动和真诚向我们显明祢的爱。",
+   "confession": "主啊，我承认我的信心常常停留在口头上。我对有需要的人说「我为你祷告」，却没有伸出手来帮助。我看见弟兄姊妹缺乏，却找理由不去关心。求祢赦免我没有行为的信心。",
+   "thanksgiving": "感谢祢，主耶稣，祢不只对我们说平安的话，更为我们舍命，供应我们灵魂和身体的一切需要。感谢祢用活的信心把我和祢连在一起，使我能结出爱的果子。",
+   "supplication": "求祢让我的信心是活的，在生活中显出来。求祢开我的眼睛，看见身边缺衣少食、孤单无助的人，并且实际地帮助他们。也求祢使我们的教会在关怀有需要的人上忠心，用行动见证福音。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:14–17",
+   "verses": [
+    {
+     "v": 14,
+     "t": "What good is it, my brothers, if someone claims to have faith, but has no deeds? Can such faith save him?"
+    },
+    {
+     "v": 15,
+     "t": "Suppose a brother or sister is without clothes and daily food."
+    },
+    {
+     "v": 16,
+     "t": "If one of you tells him, “Go in peace; stay warm and well fed,” but does not provide for his physical needs, what good is that?"
+    },
+    {
+     "v": 17,
+     "t": "So too, faith by itself, if it does not result in action, is dead."
+    }
+   ],
+   "title": "Faith Without Deeds",
+   "interpretation": "James asks, “What good is it, my brothers, if someone claims to have faith, but has no deeds? Can such faith save him?” He gives an example: a brother or sister lacks clothes and food, and someone says, “Go in peace; stay warm and well fed,” but gives nothing. “So too, faith by itself, if it does not result in action, is dead.” James is not saying that works save us. He is saying that a so-called faith that stays on the lips and never changes a life is not saving faith. Those who truly trust Christ will bear the fruit of love.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are faithful! You did not love us only in words; You sent Your Son into the world and showed us Your love in action and truth.",
+    "confession": "Lord, I confess that my faith often stays on my lips. I tell people in need I will pray for them, but I do not reach out to help. I see brothers and sisters in need and find excuses not to care. Forgive my faith without deeds.",
+    "thanksgiving": "Thank You, Lord Jesus, that You did not merely speak words of peace to us but laid down Your life and provide for all our needs, body and soul. Thank You for uniting me to You through living faith so that I can bear the fruit of love.",
+    "supplication": "Make my faith alive and visible in daily life. Open my eyes to people around me who lack food, clothing, or friendship, and help me care for them. Make our church faithful in caring for the needy, bearing witness by our deeds."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-07",
+  "weekday": "周六",
+  "ref": "雅各书 2:18-19",
+  "verses": [
+   {
+    "v": 18,
+    "t": "必有人说：「你有信心，我有行为；你将你没有行为的信心指给我看，我便借着我的行为，将我的信心指给你看。」"
+   },
+   {
+    "v": 19,
+    "t": "你信　神只有一位，你信的不错；鬼魔也信，却是战惊。"
+   }
+  ],
+  "title": "鬼魔也信",
+  "interpretation": "雅各设想有人说：「你有信心，我有行为。」他回答：你将你没有行为的信心指给我看，我便借着我的行为，将我的信心指给你看。信心是看不见的，但会借着行为显明出来。雅各又说：你信神只有一位，你信的不错；鬼魔也信，却是战惊。单单知道正确的教义，还不是得救的信心；鬼魔知道真理，却恨恶神。真信心是投靠基督、爱慕祂，并且顺服祂。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是独一的真神！除祢以外没有别神，连鬼魔都知道祢的大能而战惊，天上地下一切都在祢的权柄之下。",
+   "confession": "主啊，我承认我常常满足于知道正确的道理，却没有真心爱祢、顺服祢。我会背诵经文，会讲道理，生活却没有改变。求祢赦免我只有头脑的知识，没有心里的信靠。",
+   "thanksgiving": "感谢祢，主耶稣，祢不只是让我知道关于祢的事，更把我带进与祢的关系里，使我认识祢、爱祢。感谢圣灵在我心里作工，使我能真心地呼叫「阿爸，父」。",
+   "supplication": "求祢使我的信心不只是头脑的知识，而是全心的信靠和顺服。求祢借着我今天的言语和行为，向身边的人显明祢的爱。也求祢使我们的教会在教导真理的同时，帮助每个人活出真理。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:18–19",
+   "verses": [
+    {
+     "v": 18,
+     "t": "But someone will say, “You have faith and I have deeds.” Show me your faith without deeds, and I will show you my faith by my deeds."
+    },
+    {
+     "v": 19,
+     "t": "You believe that God is one. Good for you! Even the demons believe that—and shudder."
+    }
+   ],
+   "title": "Even the Demons Believe",
+   "interpretation": "James imagines someone saying, “You have faith and I have deeds.” He replies, “Show me your faith without deeds, and I will show you my faith by my deeds.” Faith is invisible, but it shows itself through action. Then he adds, “You believe that God is one. Good for you! Even the demons believe that—and shudder.” Knowing correct doctrine is not yet saving faith; the demons know the truth but hate God. True faith is trusting Christ, loving Him, and obeying Him.",
+   "prayer": {
+    "adoration": "Father, I praise You as the one true God! There is no other besides You. Even the demons know Your power and shudder, and everything in heaven and on earth is under Your authority.",
+    "confession": "Lord, I confess that I am often satisfied with knowing the right doctrines without truly loving and obeying You. I can recite verses and explain teachings, yet my life does not change. Forgive me for having knowledge in my head without trust in my heart.",
+    "thanksgiving": "Thank You, Lord Jesus, that You did not merely give me information about You but brought me into a relationship with You, so that I know and love You. Thank You, Holy Spirit, for working in my heart so that I can truly cry Abba, Father.",
+    "supplication": "Make my faith more than head knowledge; make it wholehearted trust and obedience. Through my words and actions today, show Your love to the people around me. Help our church not only teach the truth but also help each person live it out."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "weekday": "周日",
+  "ref": "雅各书 2:20-24",
+  "verses": [
+   {
+    "v": 20,
+    "t": "虚浮的人哪，你愿意知道没有行为的信心是死的吗？"
+   },
+   {
+    "v": 21,
+    "t": "我们的祖宗亚伯拉罕把他儿子以撒献在坛上，岂不是因行为称义吗？"
+   },
+   {
+    "v": 22,
+    "t": "可见，信心是与他的行为并行，而且信心因着行为才得成全。"
+   },
+   {
+    "v": 23,
+    "t": "这就应验经上所说：「亚伯拉罕信　神，这就算为他的义。」他又得称为　神的朋友。"
+   },
+   {
+    "v": 24,
+    "t": "这样看来，人称义是因着行为，不是单因着信。"
+   }
+  ],
+  "title": "信心与行为并行",
+  "interpretation": "雅各以亚伯拉罕为例：他把以撒献在坛上，信心与行为并行，信心因着行为才得成全。这和保罗说「人称义是因着信」并不矛盾。亚伯拉罕早在献以撒之前，就因信神被算为义；献以撒是证明他的信心是真的。保罗讲人怎样在神面前被称义，雅各讲真信心怎样被显明为义。我们单单因信基督称义，但得救的信心从来不是孤单的。这个主日，愿我们的信心在顺服中活出来。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是信实守约的神！祢呼召亚伯拉罕，算他的信为义，称他为祢的朋友，祢也供应了那代替以撒的公羊。",
+   "confession": "主啊，我承认我常常说信靠祢，到了需要顺服、需要舍弃的时候，却紧紧抓住自己所爱的。我的信心常常软弱，和行为是分开的。求祢赦免我，也坚固我的信心。",
+   "thanksgiving": "感谢祢，天父，祢没有爱惜自己的儿子，为我们众人舍了，主耶稣就是那真正的羔羊。感谢祢使我单单因信基督被称为义，又赐下圣灵使我的信心结出果子。",
+   "supplication": "求祢在今天的主日敬拜中坚固我的信心，使我像亚伯拉罕一样，在祢的呼召面前甘心顺服。求祢帮助我把最宝贵的献给祢。也求祢使我们的教会在信心和行为上都成为祢的见证。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:20–24",
+   "verses": [
+    {
+     "v": 20,
+     "t": "O foolish man, do you want evidence that faith without deeds is worthless?"
+    },
+    {
+     "v": 21,
+     "t": "Was not our father Abraham justified by what he did when he offered his son Isaac on the altar?"
+    },
+    {
+     "v": 22,
+     "t": "You see that his faith was working with his actions, and his faith was perfected by what he did."
+    },
+    {
+     "v": 23,
+     "t": "And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God."
+    },
+    {
+     "v": 24,
+     "t": "As you can see, a man is justified by his deeds and not by faith alone."
+    }
+   ],
+   "title": "Faith Working with Actions",
+   "interpretation": "James points to Abraham, who offered Isaac on the altar: “his faith was working with his actions, and his faith was perfected by what he did.” This does not contradict Paul's teaching that we are justified by faith. Long before offering Isaac, “Abraham believed God, and it was credited to him as righteousness.” The offering showed that his faith was real. Paul speaks of how we are declared righteous before God; James speaks of how true faith is shown to be genuine. We are justified by faith in Christ alone, but saving faith is never alone. On this Lord's Day, may our faith be lived out in obedience.",
+   "prayer": {
+    "adoration": "Father, I praise You as the faithful, covenant-keeping God! You called Abraham, credited his faith as righteousness, and called him Your friend, and You provided a ram in Isaac's place.",
+    "confession": "Lord, I confess that I often say I trust You, but when obedience requires giving something up, I hold tightly to what I love. My faith is often weak and separated from my actions. Forgive me and strengthen my faith.",
+    "thanksgiving": "Thank You, Father, that You did not spare Your own Son but gave Him up for us all; the Lord Jesus is the true Lamb. Thank You for declaring me righteous through faith in Christ alone and giving me the Spirit so that my faith bears fruit.",
+    "supplication": "Strengthen my faith in today's Lord's Day worship, so that like Abraham I gladly obey Your call. Help me offer You what is most precious to me. Make our church a witness to You in both faith and deeds."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
  }
 ];
