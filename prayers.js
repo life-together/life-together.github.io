@@ -7788,7 +7788,7 @@ window.PRAYERS = [
    }
   ],
   "title": "信心与行为并行",
-  "interpretation": "雅各以亚伯拉罕为例：他把以撒献在坛上，信心与行为并行，信心因着行为才得成全。这和保罗说「人称义是因着信」并不矛盾。亚伯拉罕早在献以撒之前，就因信神被算为义；献以撒是证明他的信心是真的。保罗讲人怎样在神面前被称义，雅各讲真信心怎样被显明为义。我们单单因信基督称义，但得救的信心从来不是孤单的。",
+  "interpretation": "雅各以亚伯拉罕为例：他把以撒献在坛上，信心与行为并行，信心因着行为才得成全。这和保罗说「人称义是因着信」并不矛盾。亚伯拉罕早在献以撒之前，就因信神被算为义；献以撒是证明他的信心是真的。保罗讲人怎样在神面前被称义，雅各讲真信心怎样被显明为义。我们单单因信基督称义，但得救的信心从来不是孤单的。这样的信心每天倚靠基督，也在日常的顺服中显明出来。",
   "prayer": {
    "adoration": "天父，我赞美祢是信实守约的神！祢呼召亚伯拉罕，算他的信为义，称他为祢的朋友，祢也供应了那代替以撒的公羊。",
    "confession": "主啊，我承认我常常说信靠祢，到了需要顺服、需要舍弃的时候，却紧紧抓住自己所爱的。我的信心常常软弱，和行为是分开的。求祢赦免我，也坚固我的信心。",
@@ -7821,7 +7821,7 @@ window.PRAYERS = [
     }
    ],
    "title": "Faith Working with Actions",
-   "interpretation": "James points to Abraham, who offered Isaac on the altar: “his faith was working with his actions, and his faith was perfected by what he did.” This does not contradict Paul's teaching that we are justified by faith. Long before offering Isaac, “Abraham believed God, and it was credited to him as righteousness.” The offering showed that his faith was real. Paul speaks of how we are declared righteous before God; James speaks of how true faith is shown to be genuine. We are justified by faith in Christ alone, but saving faith is never alone.",
+   "interpretation": "James points to Abraham, who offered Isaac on the altar: “his faith was working with his actions, and his faith was perfected by what he did.” This does not contradict Paul's teaching that we are justified by faith. Long before offering Isaac, “Abraham believed God, and it was credited to him as righteousness.” The offering showed that his faith was real. Paul speaks of how we are declared righteous before God; James speaks of how true faith is shown to be genuine. We are justified by faith in Christ alone, but saving faith is never alone. Such faith leans on Christ every day and shows itself in everyday obedience.",
    "prayer": {
     "adoration": "Father, I praise You as the faithful, covenant-keeping God! You called Abraham, credited his faith as righteousness, and called him Your friend, and You provided a ram in Isaac's place.",
     "confession": "Lord, I confess that I often say I trust You, but when obedience requires giving something up, I hold tightly to what I love. My faith is often weak and separated from my actions. Forgive me and strengthen my faith.",
