@@ -7830,5 +7830,367 @@ window.PRAYERS = [
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
   }
+ },
+ {
+  "date": "2026-11-09",
+  "weekday": "周一",
+  "ref": "雅各书 2:25-26",
+  "verses": [
+   {
+    "v": 25,
+    "t": "妓女喇合接待使者，又放他们从别的路上出去，不也是一样因行为称义吗？"
+   },
+   {
+    "v": 26,
+    "t": "身体没有灵魂是死的，信心没有行为也是死的。"
+   }
+  ],
+  "title": "喇合的信心",
+  "interpretation": "雅各再举一个例子：妓女喇合接待探子，又放他们从别的路上出去。亚伯拉罕是信心之父，喇合却是外邦的罪人，两人的身份天差地远，信心却一样借着行动显明出来。喇合听见耶和华的作为，就相信祂是天上地下的神，并且冒着生命危险站到神的百姓这一边。雅各总结说：身体没有灵魂是死的，信心没有行为也是死的。神的恩典能拯救最不配的人，并使他们的信心活出来。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是满有恩典的神！祢不按人的出身和过去看人，祢拯救了外邦的喇合，把她列在基督的家谱中，显明祢的救恩何等宽广。",
+   "confession": "主啊，我承认我常常认为自己的过去太不堪，不配被祢使用；有时又轻看那些背景复杂的人。我口里说信祢，遇到需要付代价的时候，却不敢站在祢这一边。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢为罪人而来，使像喇合和我这样不配的人也能蒙恩得救。感谢祢使我的信心不是死的，而是借着圣灵在生活中结出果子。",
+   "supplication": "求祢赐我勇气，在家人和朋友中间站在祢这一边，不以福音为耻。求祢使我们的教会接纳各样背景的人，相信祢能改变任何生命。也求祢使我今天用一件具体的行动来回应祢的爱。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 2:25–26",
+   "verses": [
+    {
+     "v": 25,
+     "t": "In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route?"
+    },
+    {
+     "v": 26,
+     "t": "As the body without the spirit is dead, so faith without deeds is dead."
+    }
+   ],
+   "title": "The Faith of Rahab",
+   "interpretation": "James gives another example: “was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route?” Abraham was the father of faith, while Rahab was a Gentile sinner, yet in both the same faith was shown by action. Rahab heard what the Lord had done, believed that He is God in heaven and on earth, and risked her life to stand with God's people. James concludes, “so faith without deeds is dead.” God's grace saves the least deserving and makes their faith come alive.",
+   "prayer": {
+    "adoration": "Father, I praise You because You are full of grace! You do not judge people by their background or their past. You saved Rahab and placed her in Christ's family line, showing how wide Your salvation is.",
+    "confession": "Lord, I confess that I often think my past is too shameful for You to use me, and at times I look down on people with complicated backgrounds. I say I believe in You, but when faith costs me something, I am afraid to stand on Your side. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You came for sinners, so that unworthy people like Rahab and me can receive grace and salvation. Thank You that my faith is not dead but bears fruit in daily life through the Holy Spirit.",
+    "supplication": "Give me courage to stand with You among family and friends, unashamed of the gospel. Help our church welcome people of every background, trusting that You can change any life. Help me respond to Your love today through one concrete action."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "weekday": "周二",
+  "ref": "雅各书 3:1-2",
+  "verses": [
+   {
+    "v": 1,
+    "t": "我的弟兄们，不要多人作师傅，因为晓得我们要受更重的判断。"
+   },
+   {
+    "v": 2,
+    "t": "原来我们在许多事上都有过失；若有人在话语上没有过失，他就是完全人，也能勒住自己的全身。"
+   }
+  ],
+  "title": "要受更重的判断",
+  "interpretation": "雅各说：不要多人作师傅，因为作师傅的要受更重的判断。教导神的话是大恩典，也是重责任；话语出口，会影响许多人的生命。雅各接着承认：我们在许多事上都有过失。他没有把自己放在别人之上，而是和众人站在一起。若有人在话语上没有过失，他就是完全人。没有人做得到这一点，唯有主耶稣口里从来没有诡诈。我们需要祂的赦免，也需要祂的灵来管理我们的口。",
+  "prayer": {
+   "adoration": "主耶稣，我赞美祢是完全的师傅！祢口中所出的都是恩言，祢的话是灵、是生命，祢的口里从来没有诡诈。",
+   "confession": "主啊，我承认我在许多事上都有过失，特别是在话语上。我喜欢教导别人，却不喜欢被人纠正；我说话轻率，常常没有想到我的话会伤害人、绊倒人。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢替我们这些常在话语上跌倒的人承担了审判。感谢祢赐下忠心的牧者和老师，用祢的话喂养我们，也感谢祢在我失败时仍然愿意使用我。",
+   "supplication": "求祢保守教会的牧者、主日学老师和小组长，使他们存敬畏的心教导祢的话。求祢帮助我在家中教导孩子时，以身作则。也求圣灵管理我的口，使我今天说话谨慎、温柔、诚实。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 3:1–2",
+   "verses": [
+    {
+     "v": 1,
+     "t": "Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly."
+    },
+    {
+     "v": 2,
+     "t": "We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body."
+    }
+   ],
+   "title": "Judged More Strictly",
+   "interpretation": "James writes, “Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly.” Teaching God's word is a great privilege and a serious responsibility, because our words shape many lives. Then James admits, “We all stumble in many ways.” He does not place himself above others but stands with them. Whoever never stumbles in what he says would be perfect. None of us can claim that; only the Lord Jesus never spoke deceit. We need His forgiveness and His Spirit to govern our tongues.",
+   "prayer": {
+    "adoration": "Lord Jesus, I praise You as the perfect Teacher! Gracious words came from Your lips, Your words are spirit and life, and no deceit was ever found in Your mouth.",
+    "confession": "Lord, I confess that I stumble in many ways, especially in what I say. I like to teach others but dislike being corrected. I speak carelessly and often forget that my words can hurt people or cause them to stumble. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, for bearing the judgment for those of us who so often stumble in our words. Thank You for faithful pastors and teachers who feed us with Your word, and for still using me even when I fail.",
+    "supplication": "Keep our pastors, Sunday school teachers, and small group leaders teaching Your word with reverence. Help me teach my children by example at home. Holy Spirit, govern my tongue today, so that my words are careful, gentle, and honest."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-11",
+  "weekday": "周三",
+  "ref": "雅各书 3:3-5a",
+  "verses": [
+   {
+    "v": 3,
+    "t": "我们若把嚼环放在马嘴里，叫牠顺服，就能调动牠的全身。"
+   },
+   {
+    "v": 4,
+    "t": "看哪，船只虽然甚大，又被大风催逼，只用小小的舵，就随着掌舵的意思转动。"
+   },
+   {
+    "v": 5,
+    "t": "这样，舌头在百体里也是最小的，却能说大话。"
+   }
+  ],
+  "title": "小小的舵",
+  "interpretation": "雅各用两个日常的比喻说明舌头的力量：把小小的嚼环放在马嘴里，就能调动牠的全身；巨大的船只被大风催逼，只用小小的舵，就随着掌舵的意思转动。同样，舌头在百体里也是最小的，却能说大话。一句话可以把人生引向祝福，也可以把关系带到破裂。我们的舌头需要一位好舵手。当我们把心交给基督掌管，祂就能借着我们的话语去造就人，而不是拆毁人。",
+  "prayer": {
+   "adoration": "天父，我赞美祢是掌管万有的神！大风大浪都听从祢，祢用祢的话创造天地，也用祢的话引导我们的人生。",
+   "confession": "主啊，我承认我常常小看自己的话语。我随口说出的话，有时伤了家人的心，有时把事情引向更坏的方向。我也常常说大话、夸自己，没有让祢掌管我的舌头。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢是我们生命的舵手，在风浪中仍然稳稳地引导我们。感谢祢的话语一次次把我从错误的方向带回来，使我走在正路上。",
+   "supplication": "求祢掌管我的舌头，像舵手掌管船一样，使我的话把人引向祢。求祢帮助我今天在家中说鼓励的话，在工作中说诚实的话。也求祢使我们的教会用话语彼此建立，而不是彼此拆毁。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 3:3–5a",
+   "verses": [
+    {
+     "v": 3,
+     "t": "When we put bits into the mouths of horses to make them obey us, we can guide the whole animal."
+    },
+    {
+     "v": 4,
+     "t": "Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined."
+    },
+    {
+     "v": 5,
+     "t": "In the same way, the tongue is a small part of the body, but it boasts of great things."
+    }
+   ],
+   "title": "The Small Rudder",
+   "interpretation": "James uses two everyday pictures to show the power of the tongue. A small bit in a horse's mouth guides the whole animal. Great ships driven by strong winds “are steered by a very small rudder wherever the pilot is inclined.” In the same way, “the tongue is a small part of the body, but it boasts of great things.” One sentence can steer a life toward blessing or drive a relationship toward breaking. Our tongues need a good pilot. When we give our hearts to Christ, He can use our words to build people up rather than tear them down.",
+   "prayer": {
+    "adoration": "Father, I praise You as the Lord of all! Wind and waves obey You. By Your word You created the heavens and the earth, and by Your word You guide our lives.",
+    "confession": "Lord, I confess that I often underestimate my words. Things I say without thinking have hurt my family and pushed situations in a worse direction. I often boast and praise myself, and I have not let You control my tongue. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You are the pilot of our lives, steadily guiding us through storms. Thank You that Your word has brought me back again and again from wrong directions and set me on the right path.",
+    "supplication": "Govern my tongue as a pilot steers a ship, so that my words lead people to You. Help me speak words of encouragement at home and words of honesty at work today. Help our church build one another up with our words instead of tearing one another down."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-12",
+  "weekday": "周四",
+  "ref": "雅各书 3:5b-6",
+  "verses": [
+   {
+    "v": 5,
+    "t": "看哪，最小的火能点着最大的树林。"
+   },
+   {
+    "v": 6,
+    "t": "舌头就是火，在我们百体中，舌头是个罪恶的世界，能污秽全身，也能把生命的轮子点起来，并且是从地狱里点着的。"
+   }
+  ],
+  "title": "舌头就是火",
+  "interpretation": "雅各说：看哪，最小的火能点着最大的树林。舌头就是火，在我们百体中是个罪恶的世界，能污秽全身，也能把生命的轮子点起来，并且是从地狱里点着的。一句谎言、一句闲话、一句恶毒的话，可以烧毁多年的友谊、家庭和教会的合一。雅各的话很严厉，因为舌头背后有罪恶和撒但的作为。但基督的宝血能洁净不洁的嘴唇，圣灵也能把火一样的舌头变成传扬恩典的器皿。",
+  "prayer": {
+   "adoration": "圣洁的天父，我赞美祢！祢的话是炼净的，祢用圣灵的火洁净人，也能洁净我们的嘴唇，使我们的口传扬祢的美德。",
+   "confession": "主啊，我承认我的舌头常常像火一样。我说过闲话，传过别人的是非，在愤怒中说出伤人的话，点起了不该点的火。有些伤害至今还没有修复。求祢赦免我，也医治被我伤害的人。",
+   "thanksgiving": "感谢祢，主耶稣，祢的宝血能洗净我嘴唇的不洁，正如坛上的炭洁净了以赛亚。感谢祢在五旬节赐下圣灵，使门徒的舌头成为传扬福音的器皿。",
+   "supplication": "求祢帮助我今天不传闲话，不说论断人的话。如果我曾经用话语伤害了谁，求祢给我勇气去道歉、去和好。也求祢保守我们的家庭和教会，不被流言和纷争的火烧毁。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 3:5b–6",
+   "verses": [
+    {
+     "v": 5,
+     "t": "Consider how small a spark sets a great forest ablaze."
+    },
+    {
+     "v": 6,
+     "t": "The tongue also is a fire, a world of wickedness among the parts of the body. It pollutes the whole person, sets the course of his life on fire, and is itself set on fire by hell."
+    }
+   ],
+   "title": "The Tongue Is a Fire",
+   "interpretation": "James says, “Consider how small a spark sets a great forest ablaze.” “The tongue also is a fire, a world of wickedness among the parts of the body.” It pollutes the whole person, sets the course of life on fire, and “is itself set on fire by hell.” One lie, one piece of gossip, or one cruel word can burn down years of friendship, family peace, and church unity. James speaks sharply because sin and the work of Satan stand behind the tongue. Yet Christ's blood cleanses unclean lips, and the Spirit can turn a tongue of fire into an instrument of grace.",
+   "prayer": {
+    "adoration": "Holy Father, I praise You! Your words are pure, You purify with the fire of Your Spirit, and You can cleanse our lips so that our mouths declare Your praises.",
+    "confession": "Lord, I confess that my tongue has often been like a fire. I have gossiped, spread stories about others, and spoken hurtful words in anger, starting fires that should never have been lit. Some of that damage is still not repaired. Forgive me, and heal those I have hurt.",
+    "thanksgiving": "Thank You, Lord Jesus, that Your blood can cleanse my unclean lips, as the altar's coal cleansed Isaiah's. Thank You for pouring out the Spirit at Pentecost, making the disciples' tongues instruments for proclaiming the gospel.",
+    "supplication": "Help me today not to gossip or speak judgmental words. If I have hurt anyone with my words, give me courage to apologize and seek reconciliation. Protect our families and our church from fires of rumor and conflict."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-13",
+  "weekday": "周五",
+  "ref": "雅各书 3:7-8",
+  "verses": [
+   {
+    "v": 7,
+    "t": "各类的走兽、飞禽、昆虫、水族，本来都可以制伏，也已经被人制伏了；"
+   },
+   {
+    "v": 8,
+    "t": "惟独舌头没有人能制伏，是不止息的恶物，满了害死人的毒气。"
+   }
+  ],
+  "title": "没有人能制伏的舌头",
+  "interpretation": "雅各说，各类的走兽、飞禽、昆虫、水族，都已经被人制伏了，惟独舌头没有人能制伏，是不止息的恶物，满了害死人的毒气。这话叫人谦卑：靠着人自己的意志和技巧，我们无法真正管住自己的口。问题不只在舌头，而在心里，因为心里所充满的，口里就说出来。唯有神能更新我们的心。人不能制伏的，圣灵能够改变；当我们每天降服在祂面前，祂会慢慢地把毒气换成医治人的话。",
+  "prayer": {
+   "adoration": "全能的神，我赞美祢！祢是创造万物的主，人所不能的，在祢都能。祢能更新人的心，使石心变成肉心。",
+   "confession": "主啊，我承认我常常以为自己可以管住自己的口，下了很多决心，却一次次失败。我的话里常常带着埋怨、讽刺和苦毒，像毒气一样伤害人。我的心需要祢的更新。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢没有放弃我这个常常说错话的人。感谢祢赐下圣灵住在我心里，使我在无能为力的地方，经历祢改变生命的大能。",
+   "supplication": "求圣灵每天更新我的心，使我口中所说的都出自被祢的爱充满的心。求祢帮助我在想说刻薄话的时候先停下来向祢祷告。也求祢医治那些曾被言语深深伤害的弟兄姊妹。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 3:7–8",
+   "verses": [
+    {
+     "v": 7,
+     "t": "All kinds of animals, birds, reptiles, and creatures of the sea are being tamed and have been tamed by man,"
+    },
+    {
+     "v": 8,
+     "t": "but no man can tame the tongue. It is a restless evil, full of deadly poison."
+    }
+   ],
+   "title": "The Tongue No One Can Tame",
+   "interpretation": "James observes that all kinds of animals, birds, reptiles, and sea creatures have been tamed by man, “but no man can tame the tongue. It is a restless evil, full of deadly poison.” These words humble us. By our own willpower and skill we cannot truly control our mouths. The problem is not only the tongue but the heart, for the mouth speaks what fills the heart. Only God can renew our hearts. What no one can tame, the Spirit can transform. As we yield to Him each day, He slowly replaces poison with words that heal.",
+   "prayer": {
+    "adoration": "Almighty God, I praise You! You are the Creator of all things, and what is impossible for man is possible with You. You can renew the heart and turn a heart of stone into a heart of flesh.",
+    "confession": "Lord, I confess that I often think I can control my own mouth. I have made many resolutions and failed again and again. My words are often full of complaining, sarcasm, and bitterness, hurting people like poison. My heart needs Your renewal. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You have not given up on me, even though I so often say the wrong things. Thank You for giving me the Holy Spirit to live in my heart, so that where I am powerless I can experience Your life-changing power.",
+    "supplication": "Holy Spirit, renew my heart every day, so that what I say flows from a heart filled with Your love. Help me stop and pray before I speak harsh words. Heal brothers and sisters who have been deeply wounded by words."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-14",
+  "weekday": "周六",
+  "ref": "雅各书 3:9-12",
+  "verses": [
+   {
+    "v": 9,
+    "t": "我们用舌头颂赞那为主、为父的，又用舌头咒诅那照着　神形像被造的人。"
+   },
+   {
+    "v": 10,
+    "t": "颂赞和咒诅从一个口里出来！我的弟兄们，这是不应当的！"
+   },
+   {
+    "v": 11,
+    "t": "泉源从一个眼里能发出甜苦两样的水吗？"
+   },
+   {
+    "v": 12,
+    "t": "我的弟兄们，无花果树能生橄榄吗？葡萄树能结无花果吗？咸水里也不能发出甜水来。"
+   }
+  ],
+  "title": "同一个口",
+  "interpretation": "雅各指出一个矛盾：我们用舌头颂赞那为主、为父的，又用舌头咒诅那照着神形像被造的人。颂赞和咒诅从一个口里出来，这是不应当的！泉源不能同时发出甜苦两样的水，无花果树不能生橄榄。我们怎样对待人，显明我们怎样敬拜神。主日在教会唱诗赞美，周间却对家人发怒、背后批评同事，这样的敬拜是有破口的。基督救赎我们，要使我们的口从里到外都归于祂。",
+  "prayer": {
+   "adoration": "我们的主、我们的父，我赞美祢！祢照着自己的形像造人，使每一个人都有尊贵和价值，祢配得我们用口和全心来称颂。",
+   "confession": "主啊，我承认我的口常常是矛盾的。我在聚会中赞美祢，回到家里却对家人发脾气；我为人祷告，转身又在背后批评他们。我轻看了那些照着祢形像被造的人。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢是那完全的形像，祢口中从来没有咒诅，在十字架上还为钉祢的人祷告。感谢祢把我从咒诅中救赎出来，使我的口能发出颂赞。",
+   "supplication": "求祢使我的口成为甘甜的泉源，不论在教会、在家中、在工作中，都说造就人的话。求祢帮助我尊重每一个人，因为他们都是照着祢的形像被造的。也求祢使我们的教会内外一致，见证祢的福音。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 3:9–12",
+   "verses": [
+    {
+     "v": 9,
+     "t": "With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness."
+    },
+    {
+     "v": 10,
+     "t": "Out of the same mouth come blessing and cursing. My brothers, this should not be!"
+    },
+    {
+     "v": 11,
+     "t": "Can both fresh water and salt water flow from the same spring?"
+    },
+    {
+     "v": 12,
+     "t": "My brothers, can a fig tree grow olives, or a grapevine bear figs? Neither can a salt spring produce fresh water."
+    }
+   ],
+   "title": "Out of the Same Mouth",
+   "interpretation": "James points out a contradiction: “With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness.” “Out of the same mouth come blessing and cursing. My brothers, this should not be!” A spring cannot pour out both fresh and salt water, and a fig tree cannot grow olives. How we treat people reveals how we worship God. If we sing praise on Sunday but lose our temper at home and criticize coworkers during the week, our worship has a crack in it. Christ redeemed us to make our mouths wholly His.",
+   "prayer": {
+    "adoration": "Our Lord and Father, I praise You! You made people in Your own image, giving every person dignity and worth, and You are worthy of praise from our mouths and our whole hearts.",
+    "confession": "Lord, I confess that my mouth is often full of contradictions. I praise You at church but lose my temper at home. I pray for people and then criticize them behind their backs. I have looked down on people made in Your image. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You are the perfect image of God, that no curse ever came from Your lips, and that on the cross You prayed for those who crucified You. Thank You for redeeming me from the curse so that my mouth can bless.",
+    "supplication": "Make my mouth a spring of fresh water, speaking words that build up at church, at home, and at work. Help me respect every person, because each one is made in Your image. Make our church consistent inside and out, bearing witness to Your gospel."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
+ },
+ {
+  "date": "2026-11-15",
+  "weekday": "周日",
+  "ref": "雅各书 3:13-16",
+  "verses": [
+   {
+    "v": 13,
+    "t": "你们中间谁是有智慧有见识的呢？他就当在智慧的温柔上显出他的善行来。"
+   },
+   {
+    "v": 14,
+    "t": "你们心里若怀着苦毒的嫉妒和纷争，就不可自夸，也不可说谎话抵挡真道。"
+   },
+   {
+    "v": 15,
+    "t": "这样的智慧不是从上头来的，乃是属地的，属情欲的，属鬼魔的。"
+   },
+   {
+    "v": 16,
+    "t": "在何处有嫉妒、纷争，就在何处有扰乱和各样的坏事。"
+   }
+  ],
+  "title": "从上头来的智慧",
+  "interpretation": "雅各问：你们中间谁是有智慧有见识的呢？他就当在智慧的温柔上显出他的善行来。真智慧不是口才或知识，而是谦卑温柔的生活。相反，心里若怀着苦毒的嫉妒和纷争，这样的智慧不是从上头来的，乃是属地的，属情欲的，属鬼魔的。在何处有嫉妒、纷争，就在何处有扰乱和各样的坏事。基督是神的智慧，祂心里柔和谦卑。这个主日，让我们来到祂面前，求祂除去我们心中的嫉妒和自私。",
+  "prayer": {
+   "adoration": "主耶稣，我赞美祢是神的智慧！祢心里柔和谦卑，祢没有为自己争夺什么，却为我们舍了自己，彰显了从上头来的真智慧。",
+   "confession": "主啊，我承认我心里常常有嫉妒和自私的野心。别人比我好时，我心里不舒服；在教会和工作中，我常常想证明自己是对的。我还以为这是聪明，其实是属地的智慧。求祢赦免我。",
+   "thanksgiving": "感谢祢，主耶稣，祢成了我们的智慧、公义、圣洁和救赎。感谢祢在十字架上用谦卑胜过了骄傲，用爱胜过了纷争，使我们能与神、与人和好。",
+   "supplication": "求祢在今天的主日敬拜中，用从上头来的智慧充满我，使我在温柔中显出善行。求祢除去我们教会中的嫉妒和纷争，使我们彼此相爱、同心合意。也求祢帮助我今天为一位我暗中嫉妒的人祝福。"
+  },
+  "closing": "奉主耶稣基督的名祷告，阿们！",
+  "en": {
+   "ref": "James 3:13–16",
+   "verses": [
+    {
+     "v": 13,
+     "t": "Who is wise and understanding among you? Let him show it by his good conduct, by deeds done in the humility that comes from wisdom."
+    },
+    {
+     "v": 14,
+     "t": "But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth."
+    },
+    {
+     "v": 15,
+     "t": "Such wisdom does not come from above, but is earthly, unspiritual, demonic."
+    },
+    {
+     "v": 16,
+     "t": "For where jealousy and selfish ambition exist, there will be disorder and every evil practice."
+    }
+   ],
+   "title": "Wisdom from Above",
+   "interpretation": "James asks, “Who is wise and understanding among you? Let him show it by his good conduct, by deeds done in the humility that comes from wisdom.” True wisdom is not eloquence or knowledge but a humble, gentle life. But if we harbor bitter jealousy and selfish ambition, “such wisdom does not come from above, but is earthly, unspiritual, demonic.” “For where jealousy and selfish ambition exist, there will be disorder and every evil practice.” Christ is the wisdom of God, gentle and humble in heart. On this Lord's Day, let us come to Him and ask Him to remove our jealousy and selfishness.",
+   "prayer": {
+    "adoration": "Lord Jesus, I praise You as the wisdom of God! You are gentle and humble in heart. You did not grasp for Yourself but gave Yourself for us, showing the true wisdom that comes from above.",
+    "confession": "Lord, I confess that my heart often holds jealousy and selfish ambition. When others do better than I do, I feel uneasy, and at church and at work I often want to prove that I am right. I call this wisdom, but it is earthly. Forgive me.",
+    "thanksgiving": "Thank You, Lord Jesus, that You have become our wisdom, righteousness, holiness, and redemption. Thank You that on the cross You overcame pride with humility and conflict with love, reconciling us to God and to one another.",
+    "supplication": "Fill me with wisdom from above in today's Lord's Day worship, so that I show good deeds in humility. Remove jealousy and conflict from our church, so that we love one another and are of one mind. Help me today bless someone I have secretly envied."
+   },
+   "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  }
  }
 ];
