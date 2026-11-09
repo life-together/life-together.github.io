@@ -6586,7 +6586,7 @@ window.PRAYERS = [
    }
   ],
   "title": "遵行真理，彼此相爱",
-  "interpretation": "约翰看见这教会的儿女有遵行真理的，就甚欢喜；同时他也劝勉：「我们大家要彼此相爱。」这不是一条新命令，而是从起初就从主耶稣领受的。约翰把爱和命令连在一起：「我们若照祂的命令行，这就是爱。」爱不是一种模糊的感觉，而是顺服神的具体行动。真理需要爱心来活出，爱心也需要真理来引导。这个主日，愿我们在教会中把这命令活出来。",
+  "interpretation": "约翰看见这教会的儿女有遵行真理的，就甚欢喜；同时他也劝勉：「我们大家要彼此相爱。」这不是一条新命令，而是从起初就从主耶稣领受的。约翰把爱和命令连在一起：「我们若照祂的命令行，这就是爱。」爱不是一种模糊的感觉，而是顺服神的具体行动。真理需要爱心来活出，爱心也需要真理来引导。",
   "prayer": {
    "adoration": "天父，我赞美祢是赐下美好命令的神！祢的命令不是重担，而是生命的道路；祢从起初就吩咐我们彼此相爱，因为祢就是爱。",
    "confession": "主啊，我承认我常常把爱挂在口中，却没有照祢的命令去行。对家人我缺少耐心，对弟兄姊妹我缺少关心，对得罪我的人我不肯饶恕。求祢赦免我。",
@@ -6611,7 +6611,7 @@ window.PRAYERS = [
     }
    ],
    "title": "Walking in Truth, Loving One Another",
-   "interpretation": "John was overjoyed to find some of the church's children walking in the truth. At the same time he urges, “that we love one another.” This is not a new commandment but one we have had from the beginning, received from the Lord Jesus. John ties love and commandment together: “this is love, that we walk according to His commandments.” Love is not a vague feeling but concrete obedience to God. Truth needs love to be lived out, and love needs truth to guide it. On this Lord's Day, may we live out this command in our church.",
+   "interpretation": "John was overjoyed to find some of the church's children walking in the truth. At the same time he urges, “that we love one another.” This is not a new commandment but one we have had from the beginning, received from the Lord Jesus. John ties love and commandment together: “this is love, that we walk according to His commandments.” Love is not a vague feeling but concrete obedience to God. Truth needs love to be lived out, and love needs truth to guide it.",
    "prayer": {
     "adoration": "Father, I praise You for giving us good commandments! Your commandments are not a burden but the way of life. From the beginning You have told us to love one another, because You are love.",
     "confession": "Lord, I confess that I often talk about love but do not live by Your commands. I lack patience with my family, care for my brothers and sisters, and forgiveness for those who have wronged me. Forgive me.",
@@ -7788,7 +7788,7 @@ window.PRAYERS = [
    }
   ],
   "title": "信心与行为并行",
-  "interpretation": "雅各以亚伯拉罕为例：他把以撒献在坛上，信心与行为并行，信心因着行为才得成全。这和保罗说「人称义是因着信」并不矛盾。亚伯拉罕早在献以撒之前，就因信神被算为义；献以撒是证明他的信心是真的。保罗讲人怎样在神面前被称义，雅各讲真信心怎样被显明为义。我们单单因信基督称义，但得救的信心从来不是孤单的。这个主日，愿我们的信心在顺服中活出来。",
+  "interpretation": "雅各以亚伯拉罕为例：他把以撒献在坛上，信心与行为并行，信心因着行为才得成全。这和保罗说「人称义是因着信」并不矛盾。亚伯拉罕早在献以撒之前，就因信神被算为义；献以撒是证明他的信心是真的。保罗讲人怎样在神面前被称义，雅各讲真信心怎样被显明为义。我们单单因信基督称义，但得救的信心从来不是孤单的。",
   "prayer": {
    "adoration": "天父，我赞美祢是信实守约的神！祢呼召亚伯拉罕，算他的信为义，称他为祢的朋友，祢也供应了那代替以撒的公羊。",
    "confession": "主啊，我承认我常常说信靠祢，到了需要顺服、需要舍弃的时候，却紧紧抓住自己所爱的。我的信心常常软弱，和行为是分开的。求祢赦免我，也坚固我的信心。",
@@ -7821,7 +7821,7 @@ window.PRAYERS = [
     }
    ],
    "title": "Faith Working with Actions",
-   "interpretation": "James points to Abraham, who offered Isaac on the altar: “his faith was working with his actions, and his faith was perfected by what he did.” This does not contradict Paul's teaching that we are justified by faith. Long before offering Isaac, “Abraham believed God, and it was credited to him as righteousness.” The offering showed that his faith was real. Paul speaks of how we are declared righteous before God; James speaks of how true faith is shown to be genuine. We are justified by faith in Christ alone, but saving faith is never alone. On this Lord's Day, may our faith be lived out in obedience.",
+   "interpretation": "James points to Abraham, who offered Isaac on the altar: “his faith was working with his actions, and his faith was perfected by what he did.” This does not contradict Paul's teaching that we are justified by faith. Long before offering Isaac, “Abraham believed God, and it was credited to him as righteousness.” The offering showed that his faith was real. Paul speaks of how we are declared righteous before God; James speaks of how true faith is shown to be genuine. We are justified by faith in Christ alone, but saving faith is never alone.",
    "prayer": {
     "adoration": "Father, I praise You as the faithful, covenant-keeping God! You called Abraham, credited his faith as righteousness, and called him Your friend, and You provided a ram in Isaac's place.",
     "confession": "Lord, I confess that I often say I trust You, but when obedience requires giving something up, I hold tightly to what I love. My faith is often weak and separated from my actions. Forgive me and strengthen my faith.",
