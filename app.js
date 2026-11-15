@@ -177,22 +177,28 @@
     $("btn-today").setAttribute("aria-pressed", String(todayOn));
   }
 
-  function renderCalendar() {
+  // 一个月的日期格子（HTML）。renderCalendar 用它画当前月；手指拖动时也用它画旁边露出来的上/下个月
+  function monthHtml(y, m) {
     const t = T[lang];
-    renderSession();
-    $("month-label").textContent = t.month(view.getFullYear(), view.getMonth() + 1);
-    const lead = new Date(view.getFullYear(), view.getMonth(), 1).getDay();   // 周日为一周第一天
-    const days = new Date(view.getFullYear(), view.getMonth() + 1, 0).getDate();
+    const lead = new Date(y, m, 1).getDay();   // 周日为一周第一天
+    const days = new Date(y, m + 1, 0).getDate();
     let html = "";
     for (let i = 0; i < lead; i++) html += `<span class="day blank"></span>`;
     for (let d = 1; d <= days; d++) {
-      const key = iso(new Date(view.getFullYear(), view.getMonth(), d));
+      const key = iso(new Date(y, m, d));
       const item = byDate.get(key);
       const cls = ["day", item && "has", key === todayIso && "today", key === selected && "selected"].filter(Boolean).join(" ");
       const label = item ? `${key}, ${content(item).ref}` : `${key}, ${t.none}`;
       html += `<button type="button" class="${cls}" data-date="${key}" aria-label="${esc(label)}" aria-pressed="${key === selected}">${d}</button>`;
     }
-    $("cal-days").innerHTML = html;
+    return html;
+  }
+
+  function renderCalendar() {
+    const t = T[lang];
+    renderSession();
+    $("month-label").textContent = t.month(view.getFullYear(), view.getMonth() + 1);
+    $("cal-days").innerHTML = monthHtml(view.getFullYear(), view.getMonth());
   }
 
   function renderReading() {
@@ -340,22 +346,80 @@
   $("btn-prev-month").addEventListener("click", () => { stopJump(); shiftMonth(-1); });
   $("btn-next-month").addEventListener("click", () => { stopJump(); shiftMonth(1); });
 
-  // 手机上在日历上左右滑动切换月份：向左滑 → 下个月，向右滑 → 上个月
+  // 手机上在日历上左右滑动切换月份：向左滑 → 下个月，向右滑 → 上个月。
+  // 日历跟着手指移动，旁边露出上/下个月；松手时拖过约四分之一宽度（或快速一甩）就翻过去，否则弹回原位
   const cal = document.querySelector(".cal");
-  let touch = null;
-  cal.addEventListener("touchstart", e => {
-    if (e.touches.length !== 1) { touch = null; return; }
-    touch = { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now() };
-  }, { passive: true });
-  cal.addEventListener("touchend", e => {
-    if (!touch) return;
-    const dx = e.changedTouches[0].clientX - touch.x, dy = e.changedTouches[0].clientY - touch.y;
-    const fast = Date.now() - touch.t < 800;
+  const grid = $("cal-days");
+  const vp = document.createElement("div");   // 只露出一个月宽度的「窗口」，拖动时左右两边的月份藏在窗口外
+  vp.className = "cal-viewport";
+  grid.parentNode.insertBefore(vp, grid);
+  vp.appendChild(grid);
+  const GAP = 24;   // 两个月之间留一点空隙，拖动时看得出是两页
+  let touch = null, peek = null, noClickUntil = 0;
+  const setX = (x, animate) => {
+    const ms = animate && !reduceMotion ? 220 : 0;
+    [grid, peek].forEach((el, k) => {
+      if (!el) return;
+      el.style.transition = ms ? `transform ${ms}ms ease-out` : "none";
+      el.style.transform = `translateX(${k ? x + touch.dir * (touch.w + GAP) : x}px)`;
+    });
+    return ms;
+  };
+  function showPeek(dir) {   // dir = 1 露出下个月（在右边），-1 露出上个月（在左边）
+    if (!peek) { peek = document.createElement("div"); peek.className = "cal-grid cal-peek"; peek.setAttribute("aria-hidden", "true"); vp.appendChild(peek); }
+    const d = new Date(view.getFullYear(), view.getMonth() + dir, 1);
+    peek.innerHTML = monthHtml(d.getFullYear(), d.getMonth());
+    touch.dir = dir;
+  }
+  function endDrag() {
+    grid.style.transition = grid.style.transform = "";
+    if (peek) { peek.remove(); peek = null; }
     touch = null;
-    // 横向移动超过 40px，且明显大于纵向移动（避免和上下滚动页面冲突）
-    if (fast && Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy) * 1.5) { stopJump(); shiftMonth(dx < 0 ? 1 : -1); }
+  }
+  cal.addEventListener("touchstart", e => {
+    if (touch && touch.settling) return;
+    if (e.touches.length !== 1) { if (touch && touch.drag) { setX(0); endDrag(); } touch = null; return; }
+    touch = { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now(), drag: false, axis: null, dir: 0, dx: 0, w: vp.clientWidth || 1 };
   }, { passive: true });
-  cal.addEventListener("touchcancel", () => { touch = null; }, { passive: true });
+  cal.addEventListener("touchmove", e => {
+    if (!touch || touch.settling || e.touches.length !== 1) return;
+    const dx = e.touches[0].clientX - touch.x, dy = e.touches[0].clientY - touch.y;
+    if (!touch.axis) {
+      if (Math.abs(dx) < 8 && Math.abs(dy) < 8) return;
+      touch.axis = Math.abs(dx) > Math.abs(dy) ? "x" : "y";   // 先判断是左右拖还是上下滚，判断后就不再变
+      if (touch.axis === "x") { stopJump(); touch.drag = true; grid.classList.remove("slide-next", "slide-prev", "flip-next", "flip-prev"); }
+    }
+    if (!touch.drag) return;
+    e.preventDefault();   // 左右拖动时不让页面跟着上下晃
+    const dir = dx < 0 ? 1 : -1;
+    if (dx && dir !== touch.dir) showPeek(dir);
+    touch.dx = dx;
+    touch.lastX = e.touches[0].clientX; touch.lastT = Date.now();
+    setX(dx);
+  }, { passive: false });
+  cal.addEventListener("touchend", e => {
+    if (!touch || touch.settling) return;
+    const dx = e.changedTouches[0].clientX - touch.x, dy = e.changedTouches[0].clientY - touch.y;
+    if (!touch.drag) {
+      // 没有拖动过程（例如很快的一划）：照旧按距离判断是否翻页
+      const fast = Date.now() - touch.t < 800;
+      touch = null;
+      if (fast && Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy) * 1.5) { stopJump(); shiftMonth(dx < 0 ? 1 : -1); }
+      return;
+    }
+    noClickUntil = Date.now() + 350;   // 刚拖完不要误点到日期
+    const speed = Math.abs(dx) / Math.max(1, Date.now() - touch.t);   // 像素/毫秒
+    const go = touch.dir && (Math.abs(dx) > touch.w * 0.25 || (speed > 0.5 && Math.abs(dx) > 30)) && Math.sign(-dx) === touch.dir;
+    touch.settling = true;
+    const dir = touch.dir;
+    const ms = setX(go ? -dir * (touch.w + GAP) : 0, true);
+    setTimeout(() => {
+      endDrag();
+      if (go) { view.setMonth(view.getMonth() + dir); renderCalendar(); }
+    }, ms);
+  }, { passive: true });
+  cal.addEventListener("touchcancel", () => { if (touch && touch.drag && !touch.settling) { setX(0); endDrag(); } else if (touch && !touch.settling) touch = null; }, { passive: true });
+  grid.addEventListener("click", e => { if (Date.now() < noClickUntil) { e.stopImmediatePropagation(); e.preventDefault(); } }, true);
   $("btn-today").addEventListener("click", () => { bringCalendar(); jumpTo(todayIso); });
   // 点标题「生命同行营」：回到首页，和刚打开网页时一样（页面回到顶部、日历和内容回到默认的一天；语言保持不变）
   function goHome() {
