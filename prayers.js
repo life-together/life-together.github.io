@@ -2,6 +2,7 @@
 // 中文经文：和合本（公有领域版本，称呼神用“他”，「神」字前空一格）。
 // 中文字段：date, weekday, ref, verses[{v,t}], title, interpretation, prayer{adoration,confession,thanksgiving,supplication}, closing
 // 英文字段：en{ref, verses(BSB, public domain), title, interpretation, prayer, closing}
+// 个别日子另有丰富档：rich{interpretation, prayer, en{interpretation, prayer}}，由 config.js 的 contentLevel 决定是否显示。
 window.PRAYERS = [
  {
   "date": "2026-02-02",
@@ -8234,9 +8235,27 @@ window.PRAYERS = [
     "adoration": "Lord Jesus, I praise You as the wisdom from above! You are pure and spotless, yet gentle and accommodating. You are full of mercy, impartial, and sincere. You are the Prince of Peace.",
     "confession": "Lord, I confess that I often handle problems with earthly cleverness. I give up the truth to avoid conflict, and I lose my gentleness when I insist on my own way. I show partiality and am not the same person in public and in private. Forgive me.",
     "thanksgiving": "Thank You, Lord Jesus, that through the cross You reconciled us to God and tore down the walls that divide us from one another. Thank You for freely giving wisdom from above to those who ask You.",
-    "supplication": "Make me a peacemaker who sows seeds of peace at home, at church, and at work. Give me a pure heart and gentle words. Heal the divisions among us in our church, and let them bear the fruit of righteousness."
+    "supplication": "Make me a peacemaker who sows seeds of peace at home, at church, and at work. Give me a pure heart and gentle words. Heal the divisions among us in our church, and let us bear the fruit of righteousness."
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  },
+  "rich": {
+   "interpretation": "与属地的智慧相对，雅各描绘从上头来的智慧：先是清洁，后是和平，温良柔顺，满有怜悯，多结善果，没有偏见，没有假冒。属地的智慧带来嫉妒和纷争，属天的智慧却要从它结的果子认出来。这几样合起来，正是主耶稣的样子；保罗说，基督就是神的智慧。清洁排在第一，因为真和平不是为了相安无事而妥协真理。雅各接着说，使人和平的，是用和平所栽种的义果。主在登山宝训里也说，使人和睦的人有福了。我们在家庭、教会和职场中撒下和平的种子，神会使它慢慢长成公义的果子。今天，我可以在哪一段关系里先撒下一粒和平的种子？",
+   "prayer": {
+    "adoration": "主耶稣，我赞美祢是从上头来的智慧！祢清洁无瑕，又温良柔顺；祢满有怜悯，没有偏见，也没有假冒。祢被骂不还口，受害不说威吓的话，只将自己交托那按公义审判人的主。祢是和平的君王。",
+    "confession": "主啊，我承认我常用属地的聪明处理问题。我为了避免冲突而放弃真理，又在坚持己见时失去温柔。我对人有偏见，在人前人后不一样。我也常常把自己的强硬当作刚强，把冷淡当作和平。求祢赦免我。",
+    "thanksgiving": "感谢祢，主耶稣，祢借着十字架使我们与神和好，也拆毁了人与人之间隔断的墙。感谢祢把从上头来的智慧白白赐给求告祢的人，并不斥责我们。感谢祢的灵住在我里面，一点一点结出和平的果子。",
+    "supplication": "求祢使我成为使人和平的人，在家中、教会和职场里撒下和平的种子。求祢赐我清洁的心和温柔的口，在意见不同的时候先听后说。也求祢医治我们教会中彼此的隔阂，结出公义的果子。求祢使我们所在的社区，因着祢的儿女看见祢的和平。"
+   },
+   "en": {
+    "interpretation": "In contrast to earthly wisdom, James describes the wisdom that comes from above: “first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere.” Earthly wisdom produces envy and strife, but heavenly wisdom is recognized by the fruit it bears. Together these qualities describe the Lord Jesus Himself; Paul says that Christ is the wisdom of God. Purity comes first, because true peace does not compromise the truth just to avoid trouble. James adds, “Peacemakers who sow in peace reap the fruit of righteousness.” In the Sermon on the Mount the Lord also said that the peacemakers are blessed. As we sow seeds of peace in our families, churches, and workplaces, God slowly grows them into the fruit of righteousness. In which relationship can I sow the first seed of peace today?",
+    "prayer": {
+     "adoration": "Lord Jesus, I praise You as the wisdom from above! You are pure and spotless, yet gentle and accommodating. You are full of mercy, impartial, and sincere. When You were insulted You did not answer back, and when You suffered You made no threats, but entrusted Yourself to Him who judges justly. You are the Prince of Peace.",
+     "confession": "Lord, I confess that I often handle problems with earthly cleverness. I give up the truth to avoid conflict, and I lose my gentleness when I insist on my own way. I show partiality and am not the same person in public and in private. I often mistake my hardness for strength and my coldness for peace. Forgive me.",
+     "thanksgiving": "Thank You, Lord Jesus, that through the cross You reconciled us to God and tore down the walls that divide us from one another. Thank You for freely giving wisdom from above to those who ask You, without finding fault. Thank You that Your Spirit lives in me and is slowly bearing the fruit of peace.",
+     "supplication": "Make me a peacemaker who sows seeds of peace at home, at church, and at work. Give me a pure heart and gentle words, and teach me to listen before I speak when we disagree. Heal the divisions among us in our church, and let us bear the fruit of righteousness. May the community around us see Your peace through Your children."
+    }
+   }
   }
  },
  {
@@ -8291,6 +8310,24 @@ window.PRAYERS = [
     "supplication": "Purify the motives of my prayers, and teach me to ask according to Your will. Calm the craving and envy in my heart, so that I stop quarreling over small things at home and at work. Help our church yield to one another and be of one mind."
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  },
+  "rich": {
+   "interpretation": "雅各直接问：你们中间的争战斗殴是从哪里来的呢？他的答案不是环境或别人，而是我们里面互相争战的私欲。我们贪恋得不着，就嫉妒、争吵。雅各在第一章已经说过，各人被试探，是被自己的私欲牵引诱惑；这里他指出，同样的私欲也破坏人与人的关系。他又说，你们得不着，是因为你们不求；求也得不着，是因为妄求，只想满足自己的宴乐。祷告不是叫神来实现我们私欲的工具，而是把心意交给祂。主耶稣教我们先求神的国和神的义。在基督里，神已赐下最好的，我们不必再为得着而相争。最近一次和人起冲突时，我心里真正想要的是什么？",
+   "prayer": {
+    "adoration": "天父，我赞美祢是赐各样美善恩赐的神！祢乐意垂听儿女的祷告，也知道什么对我们是最好的。祢不像地上的父亲那样有限，祢从不把石头给求饼的儿女。祢的慷慨超过我们所求所想。",
+    "confession": "主啊，我承认我和人的冲突，根源常常在我自己里面：我想要被重视、想要占上风、想要得到更多。我却常常怪罪环境，怪罪别人。我很少向祢祷告，即使祷告，也常常只为满足自己的心愿。求祢赦免我。",
+    "thanksgiving": "感谢祢，天父，祢连自己的儿子都没有爱惜，为我们舍了，岂不也把万物和祂一同白白赐给我们吗？感谢祢在基督里满足了我心里最深的需要。感谢祢没有照着我的妄求给我，反而把真正的好处赐给我。",
+    "supplication": "求祢洁净我祷告的动机，让我照祢的旨意祈求，先求祢的国和祢的义。求祢平息我心中的贪恋和嫉妒，使我在家中、在工作中不再为小事争吵。也求祢使我们的教会彼此相让，同心合意。求祢使那些正在争执中的家庭，因着福音得着和睦。"
+   },
+   "en": {
+    "interpretation": "James asks directly, “What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?” The cause is not our circumstances or other people but desires fighting inside us. We crave what we do not have, and so we envy and quarrel. In chapter 1 James already said that each person is tempted when he is drawn away by his own desire; here he shows that the same desires also damage our relationships. He continues, “You do not have, because you do not ask.” And when we do ask, we ask with wrong motives, wanting only our own pleasure. Prayer is not a tool for getting God to serve our desires but a way of yielding our hearts to Him. The Lord Jesus taught us to seek first the kingdom of God and His righteousness. In Christ God has already given His best, so we no longer need to fight. The last time I was in conflict with someone, what did my heart really want?",
+    "prayer": {
+     "adoration": "Father, I praise You as the giver of every good gift! You delight to hear Your children's prayers, and You know what is best for us. You are not limited as earthly fathers are, and You never give a stone to a child who asks for bread. Your generosity goes far beyond what we ask or imagine.",
+     "confession": "Lord, I confess that the root of my conflicts with others is often in me: I want to be noticed, to win, to have more. Yet I keep blaming my circumstances and other people. I seldom pray to You, and when I do, I often pray only for my own wishes. Forgive me.",
+     "thanksgiving": "Thank You, Father, that You did not spare Your own Son but gave Him up for us all; how will You not also graciously give us all things with Him? Thank You for meeting the deepest needs of my heart in Christ. Thank You for not giving me what I wrongly asked for, and for giving me what is truly good instead.",
+     "supplication": "Purify the motives of my prayers, and teach me to ask according to Your will, seeking first Your kingdom and Your righteousness. Calm the craving and envy in my heart, so that I stop quarreling over small things at home and at work. Help our church yield to one another and be of one mind. Bring peace through the gospel to families that are now in conflict."
+    }
+   }
   }
  },
  {
@@ -8345,6 +8382,24 @@ window.PRAYERS = [
     "supplication": "Remove the pride from my heart, so that I come to You humbly and receive Your grace. Help me recognize worldly values and not drift along with them. Keep our families and young people wholeheartedly devoted to You."
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  },
+  "rich": {
+   "interpretation": "雅各用很重的话说：你们这些淫乱的人哪，与世俗为友就是与神为敌。这话沿用了旧约先知的说法：何西阿、耶利米都把以色列人拜偶像比作妻子背弃丈夫。神和祂的子民之间像婚约，若一面说爱神，一面又爱慕世俗的价值，就是属灵的不忠。神爱我们到一个地步，不肯与世界分享我们的心。但雅各接着说：祂赐更多的恩典。他引用箴言的话：神阻挡骄傲的人，赐恩给谦卑的人。我们的不忠很深，神的恩典却更深。基督为教会舍己，要把她洗净，归给自己。谦卑承认自己的软弱，就能领受这更多的恩典。今天有什么东西，正在和神争夺我的心？",
+   "prayer": {
+    "adoration": "天父，我赞美祢是信实守约的神！祢以永远的爱爱我们，不肯与世界分享我们的心。祢的嫉妒不是出于自私，而是出于圣洁的爱。祢阻挡骄傲的人，却赐恩给谦卑的人。",
+    "confession": "主啊，我承认我常常一面说爱祢，一面又爱慕世界的东西：别人的称赞、舒适的生活、更多的拥有。我的心常常分给了别的，对祢不够忠心。我甚至以为自己站得很稳，不觉得需要祢的恩典。求祢赦免我属灵的不忠和骄傲。",
+    "thanksgiving": "感谢祢，主耶稣，祢为了祢的新妇舍了自己，用宝血洗净我们。当我一次次跌倒时，祢没有离弃我，反而赐我更多的恩典。感谢祢的恩典总是比我的罪更大，叫我可以再次回到祢面前。",
+    "supplication": "求祢除去我心里的骄傲，使我谦卑地来到祢面前领受恩典。求祢帮助我分辨世俗的价值观，不随波逐流。也求祢保守我们的家庭和年轻人，专心爱祢。求祢使我们的教会在这个世代作忠心的新妇，也记念在各地传福音的宣教士，叫更多的人归向祢。"
+   },
+   "en": {
+    "interpretation": "James speaks sharply: “You adulteresses! Do you not know that friendship with the world is hostility toward God?” He is using the language of the Old Testament prophets: Hosea and Jeremiah both compared Israel's idolatry to a wife leaving her husband. God's relationship with His people is like a marriage covenant. To say we love God while chasing the world's values is spiritual unfaithfulness. God loves us so much that He will not share our hearts with the world. Yet James goes on, “But He gives us more grace.” Then he quotes Proverbs: “God opposes the proud, but gives grace to the humble.” Our unfaithfulness runs deep, but God's grace runs deeper. Christ gave Himself up for the church to cleanse her and present her to Himself. When we humbly admit our weakness, we receive that greater grace. What is competing with God for my heart today?",
+    "prayer": {
+     "adoration": "Father, I praise You as the faithful, covenant-keeping God! You love us with an everlasting love and will not share our hearts with the world. Your jealousy does not come from selfishness but from holy love. You oppose the proud but give grace to the humble.",
+     "confession": "Lord, I confess that I often say I love You while desiring what the world offers: praise from others, a comfortable life, and more possessions. My heart is divided, and I have not been faithful to You. I even think I am standing firm and do not feel my need for Your grace. Forgive my spiritual unfaithfulness and my pride.",
+     "thanksgiving": "Thank You, Lord Jesus, that You gave Yourself up for Your bride and washed us clean with Your blood. When I fall again and again, You do not abandon me but give me more grace. Thank You that Your grace is always greater than my sin, so that I can come back to You once more.",
+     "supplication": "Remove the pride from my heart, so that I come to You humbly and receive Your grace. Help me recognize worldly values and not drift along with them. Keep our families and young people wholeheartedly devoted to You. Make our church a faithful bride in this generation, and remember the missionaries who preach the gospel in many places, so that more people turn to You."
+    }
+   }
   }
  },
  {
@@ -8407,6 +8462,24 @@ window.PRAYERS = [
     "supplication": "Help me draw near to You today and seek You wholeheartedly as I read and pray. When temptation comes, help me resist the devil in Your strength. Give me a heart of true repentance, and let our church humble itself before You and experience renewal."
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  },
+  "rich": {
+   "interpretation": "雅各发出一连串呼召：要顺服神，抵挡魔鬼，魔鬼就必逃跑；亲近神，神就必亲近你们。这些命令紧跟在「祂赐更多的恩典」后面：我们能顺服、能抵挡，是因为恩典在先。雅各也呼召有罪的人洁净手，心怀二意的人清洁心，并且为罪愁苦哭泣。洁净手、清洁心，使人想起诗篇二十四篇：谁能登耶和华的山？就是手洁心清的人。这不是叫人永远活在悲伤里，而是真实的悔改：看见罪的可怕，才会转向神。最后的应许是：务要在主面前自卑，主就必叫你们升高。主耶稣先降卑自己，神就将祂升为至高；我们在祂里面谦卑，也必蒙神高举。我有没有哪一样罪，至今还没有认真为它忧伤？",
+   "prayer": {
+    "adoration": "天父，我赞美祢是乐意亲近我们的神！我们向祢走一步，就发现祢早已迎向我们，像那位父亲跑去迎接回家的小儿子。祢叫谦卑的人升高，祢的应许永不落空。魔鬼在祢面前站立不住，祢的权柄远超过一切。",
+    "confession": "主啊，我承认我常常对罪不以为然，嘻嘻哈哈地带过，没有为它真正忧伤。我的手不洁净，我的心怀着二意，一面想讨祢喜悦，一面又舍不得罪中的享受。我也常常靠自己抵挡试探，没有先顺服祢。求祢赦免我。",
+    "thanksgiving": "感谢祢，主耶稣，祢为我们降卑，死在十字架上，打开了一条又新又活的路，使我们能亲近神。感谢祢已经胜过魔鬼，使我能靠祢抵挡它。感谢祢不轻看忧伤痛悔的心，祢的赦免叫我的愁苦变为喜乐。",
+    "supplication": "求祢今天帮助我亲近祢，在读经和祷告中专心寻求祢。在试探临到时，求祢使我靠主抵挡魔鬼。求祢赐我真实悔改的心，也使我们的教会在祢面前谦卑，经历祢的复兴。求祢怜悯我们的城市，使许多远离祢的人回转亲近祢。"
+   },
+   "en": {
+    "interpretation": "James gives a series of calls: “Submit yourselves, then, to God. Resist the devil, and he will flee from you. Draw near to God, and He will draw near to you.” These commands come right after the promise of more grace: we can submit and resist because grace comes first. He calls sinners to cleanse their hands and the double-minded to purify their hearts, and to grieve over sin. Clean hands and a pure heart recall Psalm 24: who may ascend the hill of the LORD? The one who has clean hands and a pure heart. This is not a call to live in endless sorrow but to true repentance: when we see how terrible sin is, we turn to God. The promise follows: “Humble yourselves before the Lord, and He will exalt you.” Jesus humbled Himself, and God exalted Him; in Him we too will be lifted up. Is there a sin I have not yet seriously grieved over?",
+    "prayer": {
+     "adoration": "Father, I praise You as the God who delights to draw near to us! When we take one step toward You, we find You have already come to meet us, like the father who ran to welcome his younger son home. You exalt the humble, and Your promises never fail. The devil cannot stand before You, for Your authority is far above all.",
+     "confession": "Lord, I confess that I often take sin lightly and laugh it off without truly grieving over it. My hands are not clean and my heart is divided: I want to please You, yet I am reluctant to give up the pleasures of sin. I also try to resist temptation in my own strength without first submitting to You. Forgive me.",
+     "thanksgiving": "Thank You, Lord Jesus, for humbling Yourself and dying on the cross, opening a new and living way for us to draw near to God. Thank You for defeating the devil, so that I can resist him in Your strength. Thank You that You do not despise a broken and contrite heart, and that Your forgiveness turns my sorrow into joy.",
+     "supplication": "Help me draw near to You today and seek You wholeheartedly as I read and pray. When temptation comes, help me resist the devil in Your strength. Give me a heart of true repentance, and let our church humble itself before You and experience renewal. Have mercy on our city, and bring many who are far from You back to draw near to You."
+    }
+   }
   }
  },
  {
@@ -8453,6 +8526,24 @@ window.PRAYERS = [
     "supplication": "Help me today not to speak critical words, and if correction is needed, to speak in love and face to face. Help me always remember the mercy I have received. Keep our church from judging and gossip, so that we build one another up."
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  },
+  "rich": {
+   "interpretation": "雅各劝勉：弟兄们，你们不可彼此批评。这里说的不是出于爱心的劝勉，而是在背后贬低、定罪别人。人若论断弟兄，就是把自己放在律法之上，好像律法说「要爱人如己」也管不着他。雅各在第二章称这条命令为至尊的律法；它出自利未记，那里同一段也说，不可在民中往来搬弄是非。设立律法和判断人的只有一位，就是那能救人也能灭人的神。主耶稣也说，你们不要论断人，免得你们被论断。我们都是站在祂面前蒙怜悯的罪人。记得自己蒙了多大的赦免，就不敢再坐在审判台上论断别人。这几天我在背后议论过谁？我能不能改为替他祷告？",
+   "prayer": {
+    "adoration": "天父，我赞美祢是唯一设立律法、审判人的主！祢公义圣洁，能救人也能灭人，祢的审判完全正确，祢的怜悯也无比丰盛。祢鉴察人心，知道每个人的全部，那是我们永远看不透的。",
+    "confession": "主啊，我承认我常常在心里、在口中批评别人，甚至在背后贬低弟兄姊妹。我把自己当成审判官，却忘了自己也是蒙怜悯的罪人。我看得见弟兄眼中的刺，却不想自己眼中的梁木。求祢赦免我骄傲的心和刻薄的口。",
+    "thanksgiving": "感谢祢，主耶稣，祢替我承受了审判，使我这本该被定罪的人得蒙赦免。感谢祢没有按我的罪待我，反而用慈爱和耐心对待我。感谢祢如今在父面前为我代求，没有人能再定我的罪。",
+    "supplication": "求祢帮助我今天不说批评人的话，若有需要劝勉，也要存着爱心当面去说。求祢使我常常记得自己所蒙的怜悯，用祢待我的耐心去待人。也求祢保守我们的教会，远离论断和闲话，彼此建立。求祢使我们在邻舍和同事面前，用造就人的话见证祢的恩典。"
+   },
+   "en": {
+    "interpretation": "James urges, “Brothers, do not slander one another.” He is not forbidding loving correction but speaking against putting others down and condemning them behind their backs. Whoever judges a brother sets himself above the law, as if the command to love our neighbor did not apply to him. In chapter 2 James called that command the royal law; it comes from Leviticus, where the same passage also forbids going about spreading slander among the people. “There is only one Lawgiver and Judge, the One who is able to save and destroy.” The Lord Jesus likewise said, do not judge, or you will be judged. We all stand before Him as sinners who have received mercy. When we remember how much we have been forgiven, we dare not sit on the judgment seat over others. Whom have I talked about behind their back these past few days? Could I pray for that person instead?",
+    "prayer": {
+     "adoration": "Father, I praise You as the only Lawgiver and Judge! You are righteous and holy, able to save and to destroy. Your judgments are perfectly right, and Your mercy is overflowing. You search every heart and know each person completely, in a way we never can.",
+     "confession": "Lord, I confess that I often criticize others in my heart and with my words, even putting down brothers and sisters behind their backs. I make myself a judge and forget that I too am a sinner who has received mercy. I see the speck in my brother's eye but do not consider the beam in my own. Forgive my proud heart and harsh tongue.",
+     "thanksgiving": "Thank You, Lord Jesus, for bearing judgment in my place, so that I, who deserved condemnation, am forgiven. Thank You for not treating me as my sins deserve but dealing with me in love and patience. Thank You that You now intercede for me before the Father, and no one can condemn me.",
+     "supplication": "Help me today not to speak critical words, and if correction is needed, to speak in love and face to face. Help me always remember the mercy I have received and treat others with the patience You have shown me. Keep our church from judging and gossip, so that we build one another up. Before our neighbors and coworkers, let our words build others up and bear witness to Your grace."
+    }
+   }
   }
  },
  {
@@ -8523,6 +8614,24 @@ window.PRAYERS = [
     "supplication": "Help me seek Your will first as I plan my work, studies, and family life, humbly saying, if the Lord is willing. Do not let me miss the opportunities to do good today. Lead our church's plans according to Your heart."
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  },
+  "rich": {
+   "interpretation": "雅各对那些满有计划的商人说：你们说今天明天要往某城去，做买卖得利，其实明天如何，你们还不知道。那个时代的商人常在各城之间往来经商，这样的打算再平常不过。我们的生命原来是一片云雾，出现少时就不见了。计划本身没有错，错在把神排除在外，好像明天掌握在自己手里。箴言也说，不要为明日自夸，因为一日要生何事，你尚且不能知道。雅各教我们说：主若愿意，我们就可以活着，也可以做这事、做那事。这不是一句口头禅，而是承认自己每一口气都在主手中。他最后提醒：人若知道行善，却不去行，这就是他的罪了。把每一天交在掌管明天的基督手中。我眼前哪一个计划，还没有带到主面前求问？",
+   "prayer": {
+    "adoration": "天父，我赞美祢是掌管时间和生命的主！我的年日都在祢手中，明天如何只有祢知道，祢的旨意永远美善。我的生命像云雾一样短暂，祢却从亘古到永远都是神。",
+    "confession": "主啊，我承认我常常安排自己的人生，好像明天一定属于我，却没有求问祢的心意。我为自己的计划和成就夸口，也常常知道该行善，却拖延不做。我嘴里说「主若愿意」，心里却早已自己定了主意。求祢赦免我。",
+    "thanksgiving": "感谢祢，主耶稣，祢是昨日、今日、一直到永远都不改变的。感谢祢赐我今天的生命和气息，也应许我永远的生命，使我不必为明天忧虑。感谢祢过去一次次拦阻我的计划，后来我才明白那是祢的保守。",
+    "supplication": "求祢帮助我在计划工作、学业和家庭的事上，先求问祢的旨意，谦卑地说「主若愿意」。求祢使我今天不错过行善的机会，想到该做的就去做。也求祢带领我们教会的计划，都照着祢的心意。求祢看顾那些为生计和前途忧虑的人，使他们认识掌管明天的主。"
+   },
+   "en": {
+    "interpretation": "James addresses confident planners who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.” Merchants of that time often traveled from city to city to trade, so such plans were entirely ordinary. But “You do not even know what will happen tomorrow!” Our life is “a mist that appears for a little while and then vanishes.” Planning is not wrong; leaving God out is, as if tomorrow were in our own hands. Proverbs also says not to boast about tomorrow, for we do not know what a day may bring. James teaches us to say, “If the Lord is willing, we will live and do this or that.” This is not a catchphrase but a confession that every breath is in the Lord's hands. He adds that knowing the right thing and failing to do it is sin. Entrust each day to Christ, who holds our tomorrow. Which of my current plans have I not yet brought before the Lord?",
+    "prayer": {
+     "adoration": "Father, I praise You as the Lord of time and life! My days are in Your hands. Only You know what tomorrow holds, and Your will is always good. My life is as brief as a mist, but from everlasting to everlasting You are God.",
+     "confession": "Lord, I confess that I often arrange my life as if tomorrow surely belongs to me, without seeking Your will. I boast in my plans and achievements, and I often know the good I should do yet put it off. With my lips I say, if the Lord is willing, while in my heart I have already made up my own mind. Forgive me.",
+     "thanksgiving": "Thank You, Lord Jesus, that You are the same yesterday, today, and forever. Thank You for giving me life and breath today and promising me eternal life, so that I need not worry about tomorrow. Thank You for the times You blocked my plans, when only later I understood that You were protecting me.",
+     "supplication": "Help me seek Your will first as I plan my work, studies, and family life, humbly saying, if the Lord is willing. Do not let me miss the opportunities to do good today; when I see what I should do, help me do it. Lead our church's plans according to Your heart. Watch over those who are anxious about their living and their future, and let them come to know the Lord who holds tomorrow."
+    }
+   }
   }
  },
  {
@@ -8577,6 +8686,24 @@ window.PRAYERS = [
     "supplication": "In today's Lord's Day worship, help me treasure You above all else again. Make me faithful and generous with money, glad to help those in need. Let our church display Your riches through our giving and care for others."
    },
    "closing": "In the name of the Lord Jesus Christ I pray. Amen!"
+  },
+  "rich": {
+   "interpretation": "雅各严厉地警告那些富足人：应当哭泣、号咷，因为苦难要临到。这语气像旧约先知宣告审判；下文显明，这些人亏欠工人的工钱，欺压义人。他们的财物坏了，衣服被虫子咬了，金银也长了锈，那锈要证明他们的不是。在当时，人多半用存粮、衣服和金银来积财，雅各说它们没有一样靠得住。这里的问题不是有钱，而是在末世只知积攒钱财，不顾别人的需要。主耶稣说，不要为自己积攒财宝在地上，那里有虫子咬、能锈坏。我们真正的财宝是基督，祂为我们成了贫穷，叫我们因祂的贫穷成为富足。我手中所有的，有多少是只为自己存留的？",
+   "prayer": {
+    "adoration": "天父，我赞美祢是公义的审判者，也是万有的主！地上的财物都会朽坏，惟有祢和祢的国永远长存，祢是我们永不朽坏的产业。金子银子都是祢的，我们不过是祢的管家。祢看顾贫穷和缺乏的人。",
+    "confession": "主啊，我承认我常常把安全感建立在存款和财物上，为将来积攒，却很少慷慨地帮助有需要的人。我对钱财的爱慕，常常多过对祢的爱。我看见别人的缺乏，却找理由转过脸去。求祢赦免我。",
+    "thanksgiving": "感谢祢，主耶稣，祢本来富足，却为我们成了贫穷，叫我们因祢的贫穷可以成为富足。感谢祢在天上为我们存留了不能朽坏、不能衰残的基业。感谢祢天天赐我日用的饮食，叫我可以知足。",
+    "supplication": "求祢在今天的主日敬拜中，让我重新以祢为最宝贵的财宝。求祢使我在钱财上忠心、慷慨，乐意帮助有需要的人。也求祢使我们的教会在奉献和关怀上，见证祢的丰富。求祢记念我们社区里贫穷和孤单的人，也供应在远方传福音的工人，叫他们一无所缺。"
+   },
+   "en": {
+    "interpretation": "James warns the rich in strong words: “weep and wail over the misery to come upon you.” His tone is like an Old Testament prophet announcing judgment; the verses that follow show that these people withheld their workers' wages and oppressed the righteous. “Your riches have rotted and moths have eaten your clothes. Your gold and silver are corroded.” That corrosion will testify against them. In that day people mostly stored wealth as grain, clothing, and precious metal, and James says none of them can be relied on. The problem is not having money but hoarding it in the last days while ignoring others' needs. Jesus told us not to store up treasures on earth, where moth and rust destroy. Our true treasure is Christ, who became poor for our sake, so that through His poverty we might become rich. How much of what I have is kept only for myself?",
+    "prayer": {
+     "adoration": "Father, I praise You as the righteous Judge and the Lord of all! Earthly wealth will all decay, but You and Your kingdom remain forever. You are our imperishable inheritance. The silver and the gold are Yours, and we are only Your stewards. You care for the poor and the needy.",
+     "confession": "Lord, I confess that I often build my sense of security on savings and possessions. I store up for the future but rarely help those in need generously. My love for money often exceeds my love for You. I see the needs of others and find reasons to look away. Forgive me.",
+     "thanksgiving": "Thank You, Lord Jesus, that though You were rich, You became poor for our sake, so that through Your poverty we might become rich. Thank You for an inheritance kept in heaven for us that can never perish or fade. Thank You for giving me my daily bread each day, so that I can be content.",
+     "supplication": "In today's Lord's Day worship, help me treasure You above all else again. Make me faithful and generous with money, glad to help those in need. Let our church display Your riches through our giving and care for others. Remember the poor and the lonely in our community, and provide for the workers who preach the gospel far away, so that they lack nothing."
+    }
+   }
   }
  }
 ];

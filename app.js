@@ -12,6 +12,9 @@
     try { new Intl.DateTimeFormat("en", { timeZone: cfg.timeZone }); }
     catch (e) { warnCfg(`timeZone "${cfg.timeZone}" 无法识别，现按读者设备的本地时间处理`); cfg.timeZone = ""; }
   }
+  // 显示哪一档篇幅："normal"（正常，默认）或 "rich"（丰富）。选 rich 时，某天没有丰富档就显示正常档
+  let level = cfg.contentLevel === undefined ? "normal" : String(cfg.contentLevel).trim().toLowerCase();
+  if (!["normal", "rich"].includes(level)) { warnCfg(`contentLevel 应为 "normal" 或 "rich"，现按 "normal" 处理`); level = "normal"; }
   const [pubH, pubM] = String(cfg.publishTime).split(":").map(Number);
   const publishMin = (pubH || 0) * 60 + (pubM || 0);
   // 发布时间的显示文字（全站统一用 24 小时制），例如 "22:00"
@@ -112,7 +115,12 @@
   let view = parse(selected); view.setDate(1);
 
   // 取当前语言的内容；英文缺失时回退到中文
-  const content = item => (lang === "en" && item.en) ? item.en : item;
+  // 当天要显示的内容：经文、标题、出处两档共用；解读和祷告按 contentLevel 选，没有丰富档时用主版本
+  const content = item => {
+    const base = (lang === "en" && item.en) ? item.en : item;
+    const r = level === "rich" && item.rich && (base === item ? item.rich : item.rich.en);
+    return (r && r.interpretation && r.prayer) ? Object.assign({}, base, { interpretation: r.interpretation, prayer: r.prayer }) : base;
+  };
   // BibleGateway 外链（只链接，不复制经文）：NIV（英文）、新译本简体版 CNVS（中文）。都用英文经文出处搜索
   const bgUrl = (ref, ver) => "https://www.biblegateway.com/passage/?search=" + encodeURIComponent(ref.replace(/–/g, "-")) + "&version=" + ver;
   const nivUrl = ref => bgUrl(ref, "NIV");
