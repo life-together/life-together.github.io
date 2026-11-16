@@ -31,6 +31,7 @@ A bilingual (Chinese / English) daily devotional calendar. Each day pairs a shor
 | Oct 25 – Nov 1 | James 1:1–27 |
 | Nov 2 – Nov 8 | James 2:1–24 |
 | Nov 9 – Nov 15 | James 2:25 – 3:16 |
+| Nov 16 – Nov 22 | James 3:17 – 5:3 |
 
 New days are added in batches.
 
